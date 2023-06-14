@@ -2564,7 +2564,7 @@
         ],
         "settings": {
           "layout": "full",
-          "slide_height": "medium",
+          "slide_height": "adapt",
           "text_size": "large",
           "show_arrows": true,
           "show_arrows_below": false,
