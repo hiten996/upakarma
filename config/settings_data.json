@@ -413,41 +413,22 @@
       "header_top": {
         "type": "header_top",
         "blocks": {
-          "1595994733101": {
-            "type": "social",
-            "settings": {
-              "social": "2",
-              "border_bl": true,
-              "black_bl": false,
-              "hide": true,
-              "col": "4"
-            }
-          },
           "1596007070336": {
             "type": "text2",
             "settings": {
-              "text": "<p>Summer sale discount off&nbsp;<strong><a href=\"#cr\" title=\"#cr\">50%<\/a><\/strong>!&nbsp;<a href=\"\/collections\/clothing\" title=\"Clothing\">Shop Now<\/a>;;;<\/p>\n<p>The Best Shopify Themes.;;;<\/p>\n<p>MADE WITH LOVE;;;<\/p>\n<p>Customer support is second to none;;;<\/p>\n<p>Fantastic theme! Beautifully designed!<\/p>",
-              "effect": "1",
+              "text": "<p>Summer sale discount <\/p>",
+              "effect": "0",
               "au_time": 2.5,
               "hide": false,
-              "col": "4"
-            }
-          },
-          "header_top-2": {
-            "type": "cur",
-            "settings": {
-              "hide": true,
               "col": "4"
             }
           }
         },
         "block_order": [
-          "1595994733101",
-          "1596007070336",
-          "header_top-2"
+          "1596007070336"
         ],
         "settings": {
-          "height": 50,
+          "height": 30,
           "fontsize": 14,
           "cl": "#ffffff",
           "cl_a": "#222222",
