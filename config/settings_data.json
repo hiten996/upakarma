@@ -138,7 +138,7 @@
     "fnt_sub_tt": "poppins_n4",
     "fnt_bd2": "Poppins",
     "fnt_heading2": "Rosario",
-    "fnt_sub_tt2": "Libre Baskerville",
+    "fnt_sub_tt2": "Rosario",
     "size_bd_text": 14,
     "fw_bd": 400,
     "bd_line_height": 1.7,
@@ -2511,7 +2511,7 @@
         "settings": {
           "title": "NEW LAUNCHES",
           "sub_title": "Pick One Do More",
-          "sub_font": "1",
+          "sub_font": "2",
           "btn_title": "See all products",
           "style_title": "title_3",
           "ic_tt": "gem",
@@ -2727,7 +2727,7 @@
         "settings": {
           "title": "BEST SELLERS",
           "sub_title": "Our Best Selling Premium Quality Ayurvedic Products",
-          "sub_font": "1",
+          "sub_font": "2",
           "btn_title": "See all products",
           "style_title": "title_3",
           "ic_tt": "gem",
