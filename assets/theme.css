@@ -25348,11 +25348,3 @@ option:disabled {
   transform: translate(0, 0);
   margin: 0 auto;
 }
-
-/* custom css */
-
-.item.item--quickSearch {
-  border-radius: 50px;
-}
-
-/* end custom css */
