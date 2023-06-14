@@ -490,7 +490,8 @@
           "081e6bf0-58eb-4471-8c95-78409cce0d07"
         ],
         "custom_css": [
-          "nav.nt_navigation.tc.hover_side_up.nav_arrow_false {background: #dbc8aa;}"
+          "nav.nt_navigation.tc.hover_side_up.nav_arrow_false {background: #dbc8aa;}",
+          "a.lh__1.flex.al_center.pr {color: black;}"
         ],
         "settings": {
           "height": 100,
@@ -2456,7 +2457,7 @@
               "txt_align": "tl_md",
               "cap_v_pos_mb": 50,
               "cap_h_pos_mb": 39,
-              "txt_align_mb": "tl",
+              "txt_align_mb": "tc",
               "cl_overlay": "#000000",
               "cl_opacity": 0,
               "ani_img": "none",
