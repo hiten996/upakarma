@@ -472,7 +472,7 @@
               "title": "ABOUT US",
               "url": "",
               "open_link": "_self",
-              "menu": "",
+              "menu": "about-us",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
@@ -481,23 +481,11 @@
               "lazy_mn": true,
               "pos": "right"
             }
-          },
-          "0701a76f-bd57-4202-bab5-1ee12ecc57d1": {
-            "type": "link",
-            "disabled": true,
-            "settings": {
-              "tt_hd": "Heading",
-              "url": "",
-              "open_link": "_self",
-              "menu": "customer-services",
-              "col": "9"
-            }
           }
         },
         "block_order": [
           "4ae5fc93-7f2c-4d6d-95e7-e38ce0aeba63",
-          "081e6bf0-58eb-4471-8c95-78409cce0d07",
-          "0701a76f-bd57-4202-bab5-1ee12ecc57d1"
+          "081e6bf0-58eb-4471-8c95-78409cce0d07"
         ],
         "custom_css": [
           "nav.nt_navigation.tc.hover_side_up.nav_arrow_false {background: #dbc8aa;}"
@@ -2377,832 +2365,6 @@
         "settings": {
         }
       },
-      "1581508031759": {
-        "type": "featured_blog",
-        "settings": {
-          "title": "OUR LIFE AND STORIES",
-          "sub_title": "",
-          "sub_font": "2",
-          "btn_title": "See all posts",
-          "style_title": "title_14",
-          "ic_tt": "pencil-alt",
-          "show_clpr": false,
-          "layout_des": "2",
-          "art_des": "1 tc",
-          "blog": "stories",
-          "limit": 3,
-          "use_pagination": "none",
-          "use_bar_lm": false,
-          "btn_rd": true,
-          "btn_icon": true,
-          "btn_style": "primary",
-          "date": "date",
-          "col_pr": "4",
-          "col_pr_tb": "4",
-          "col_pr_mb": "12",
-          "show_cnt": true,
-          "show_au": true,
-          "show_dt": true,
-          "show_cm": false,
-          "show_rm": false,
-          "loop": false,
-          "au_time": 0,
-          "au_hover": true,
-          "button": true,
-          "btn_vi": "1",
-          "btn_owl": "1",
-          "btn_color": "3",
-          "dot": false,
-          "dot_owl": "1",
-          "dot_color": "1",
-          "use_eq_height": true,
-          "image_ratio": "ratio4_3",
-          "image_size": "nt_cover",
-          "image_position": "8",
-          "layout": "container",
-          "cl_bg": "rgba(0,0,0,0)",
-          "mg": "60px,,20px,",
-          "pd": "",
-          "mg_mb": "50px,,50px,",
-          "pd_mb": ""
-        }
-      },
-      "1581505806578": {
-        "type": "slideshow",
-        "blocks": {
-          "1585640159361": {
-            "type": "img",
-            "settings": {
-              "pos_img": "center center",
-              "cl_img": "",
-              "link_img1": "",
-              "open_link": "_blank",
-              "caption_w": "1",
-              "cap_v_pos": 50,
-              "cap_h_pos": 10,
-              "txt_align": "tc_md",
-              "cap_v_pos_mb": 50,
-              "cap_h_pos_mb": 0,
-              "txt_align_mb": "tc",
-              "cl_overlay": "#000000",
-              "cl_opacity": 0,
-              "ani_img": "zoom",
-              "ani_txt": "bottom_top",
-              "bg_content_bl": false,
-              "bg_content_cl": "#fff",
-              "bg_content_op": 50,
-              "content_pd": "40px 80px",
-              "content_pd_mb": "10px 20px",
-              "border_bl": false,
-              "br_color": "#222",
-              "br_style": "solid",
-              "br_pd": 20,
-              "br_pd_mb": 10
-            }
-          },
-          "1585640474337": {
-            "type": "subhd",
-            "settings": {
-              "font": "f__libre",
-              "title": "Mid Season Essential",
-              "color": "#000000",
-              "fw_text": 400,
-              "fs_text": 20,
-              "lh_text": 0,
-              "ls_text": 2,
-              "fs_mb_text": 15,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0,
-              "hide": false
-            }
-          },
-          "1585640492985": {
-            "type": "space",
-            "settings": {
-              "sp": 25,
-              "sp_mb": 15
-            }
-          },
-          "1585640480446": {
-            "type": "hd",
-            "settings": {
-              "title": "WOMEN'S <br>Best of JACKET",
-              "color": "#000000",
-              "fw_text": 700,
-              "fs_text": 50,
-              "lh_text": 0,
-              "ls_text": 1,
-              "fs_mb_text": 25,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0
-            }
-          },
-          "1585640490350": {
-            "type": "space",
-            "settings": {
-              "sp": 25,
-              "sp_mb": 15
-            }
-          },
-          "1585640485544": {
-            "type": "btn",
-            "settings": {
-              "title": "SHOP THE COLLECTION",
-              "btn_link": "shopify:\/\/collections\/voka-fashion",
-              "title2": "",
-              "btn_link2": "",
-              "btn_icon": false,
-              "cl_txt": "#ffffff",
-              "cl_bg": "#000000",
-              "cl_bd": "#000000",
-              "fs_text": 11,
-              "fw_text": 500,
-              "h": 42,
-              "ls_text": 3,
-              "bdr": 0,
-              "pd": 15,
-              "fs_mb_text": 14,
-              "h_mb": 40,
-              "ls_mb_text": 0,
-              "bdr_mb": 0,
-              "pd_mb": 15
-            }
-          },
-          "1585640162346": {
-            "type": "img",
-            "settings": {
-              "pos_img": "center center",
-              "cl_img": "",
-              "link_img1": "",
-              "open_link": "_blank",
-              "caption_w": "1",
-              "cap_v_pos": 50,
-              "cap_h_pos": 8,
-              "txt_align": "tc_md",
-              "cap_v_pos_mb": 50,
-              "cap_h_pos_mb": 8,
-              "txt_align_mb": "tc",
-              "cl_overlay": "#000000",
-              "cl_opacity": 0,
-              "ani_img": "tran_ef",
-              "ani_txt": "bottom_top",
-              "bg_content_bl": false,
-              "bg_content_cl": "#fff",
-              "bg_content_op": 50,
-              "content_pd": "40px 80px",
-              "content_pd_mb": "10px 20px",
-              "border_bl": false,
-              "br_color": "#222",
-              "br_style": "solid",
-              "br_pd": 20,
-              "br_pd_mb": 10
-            }
-          },
-          "1585640505189": {
-            "type": "subhd",
-            "settings": {
-              "font": "f__libre",
-              "title": "ENJOY 40% OFF Coupon code: COZ18AZ",
-              "color": "#000000",
-              "fw_text": 400,
-              "fs_text": 14,
-              "lh_text": 0,
-              "ls_text": 1,
-              "fs_mb_text": 14,
-              "lh_mb_text": 0,
-              "ls_mb_text": 1,
-              "hide": true
-            }
-          },
-          "1585640508369": {
-            "type": "space",
-            "settings": {
-              "sp": 15,
-              "sp_mb": 10
-            }
-          },
-          "1585640512264": {
-            "type": "hd",
-            "settings": {
-              "title": "WOMEN'S<br> Best of GLASSES",
-              "color": "#000000",
-              "fw_text": 700,
-              "fs_text": 50,
-              "lh_text": 0,
-              "ls_text": 1,
-              "fs_mb_text": 25,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0
-            }
-          },
-          "1585640518653": {
-            "type": "space",
-            "settings": {
-              "sp": 24,
-              "sp_mb": 10
-            }
-          },
-          "1585640524232": {
-            "type": "btn",
-            "settings": {
-              "title": "SHOP NOW",
-              "btn_link": "shopify:\/\/collections\/voka-fashion",
-              "title2": "",
-              "btn_link2": "",
-              "btn_icon": false,
-              "cl_txt": "#ffffff",
-              "cl_bg": "#000000",
-              "cl_bd": "#000000",
-              "fs_text": 11,
-              "fw_text": 500,
-              "h": 42,
-              "ls_text": 3,
-              "bdr": 0,
-              "pd": 15,
-              "fs_mb_text": 14,
-              "h_mb": 40,
-              "ls_mb_text": 0,
-              "bdr_mb": 0,
-              "pd_mb": 15
-            }
-          },
-          "1585640154849": {
-            "type": "img",
-            "settings": {
-              "pos_img": "center center",
-              "cl_img": "",
-              "link_img1": "",
-              "open_link": "_blank",
-              "caption_w": "1",
-              "cap_v_pos": 50,
-              "cap_h_pos": 50,
-              "txt_align": "tc_md",
-              "cap_v_pos_mb": 50,
-              "cap_h_pos_mb": 50,
-              "txt_align_mb": "tc",
-              "cl_overlay": "#000000",
-              "cl_opacity": 0,
-              "ani_img": "tran_ef",
-              "ani_txt": "bottom_top",
-              "bg_content_bl": false,
-              "bg_content_cl": "#fff",
-              "bg_content_op": 50,
-              "content_pd": "40px 80px",
-              "content_pd_mb": "10px 20px",
-              "border_bl": false,
-              "br_color": "#222",
-              "br_style": "solid",
-              "br_pd": 20,
-              "br_pd_mb": 10
-            }
-          },
-          "1585640443284": {
-            "type": "subhd",
-            "settings": {
-              "font": "f__libre",
-              "title": "Fashion \/ Accessories \/ Cosmetic",
-              "color": "#ffffff",
-              "fw_text": 400,
-              "fs_text": 18,
-              "lh_text": 0,
-              "ls_text": 2,
-              "fs_mb_text": 15,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0,
-              "hide": true
-            }
-          },
-          "1585640460694": {
-            "type": "space",
-            "settings": {
-              "sp": 15,
-              "sp_mb": 10
-            }
-          },
-          "1585640447349": {
-            "type": "hd",
-            "settings": {
-              "title": "Most Wanted<br>FASHION",
-              "color": "#ffffff",
-              "fw_text": 700,
-              "fs_text": 40,
-              "lh_text": 44,
-              "ls_text": 1,
-              "fs_mb_text": 25,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0
-            }
-          },
-          "1585640466340": {
-            "type": "space",
-            "settings": {
-              "sp": 15,
-              "sp_mb": 10
-            }
-          },
-          "1585640453760": {
-            "type": "btn",
-            "settings": {
-              "title": "FIND ULTIMATE LOOK",
-              "btn_link": "shopify:\/\/collections\/voka-fashion",
-              "title2": "Shop Now",
-              "btn_link2": "",
-              "btn_icon": false,
-              "cl_txt": "#ffffff",
-              "cl_bg": "#000000",
-              "cl_bd": "#000000",
-              "fs_text": 11,
-              "fw_text": 500,
-              "h": 42,
-              "ls_text": 3,
-              "bdr": 0,
-              "pd": 15,
-              "fs_mb_text": 14,
-              "h_mb": 40,
-              "ls_mb_text": 0,
-              "bdr_mb": 0,
-              "pd_mb": 15
-            }
-          }
-        },
-        "block_order": [
-          "1585640159361",
-          "1585640474337",
-          "1585640492985",
-          "1585640480446",
-          "1585640490350",
-          "1585640485544",
-          "1585640162346",
-          "1585640505189",
-          "1585640508369",
-          "1585640512264",
-          "1585640518653",
-          "1585640524232",
-          "1585640154849",
-          "1585640443284",
-          "1585640460694",
-          "1585640447349",
-          "1585640466340",
-          "1585640453760"
-        ],
-        "settings": {
-          "se_height": "cus_h",
-          "use_custom_h": "2",
-          "h_des": "600px",
-          "h_tb": "600px",
-          "h_mb": "350px",
-          "effect": "1",
-          "loop": true,
-          "autoplay": false,
-          "au_time": 3.5,
-          "au_hover": true,
-          "button": false,
-          "btn_vi": "2",
-          "btn_owl": "1",
-          "btn_color": "0",
-          "dot": true,
-          "dot_owl": "2",
-          "dot_color": "3",
-          "layout": "container",
-          "cl_bg": "rgba(0,0,0,0)",
-          "mg": "",
-          "pd": "",
-          "mg_mb": "",
-          "pd_mb": ""
-        }
-      },
-      "1598862023777": {
-        "type": "collection-list_manual",
-        "blocks": {
-          "1598862023777-0": {
-            "type": "collection",
-            "settings": {
-              "collection": "voka-fashion",
-              "img_align": "center",
-              "title": "WOMEN'S",
-              "url": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "1598862023777-1": {
-            "type": "collection",
-            "settings": {
-              "collection": "voka-fashion",
-              "img_align": "center",
-              "title": "MEN'S",
-              "url": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "1598862023777-2": {
-            "type": "collection",
-            "settings": {
-              "collection": "voka-fashion",
-              "img_align": "center",
-              "title": "ACCESSORIES",
-              "url": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          },
-          "1598862023777-3": {
-            "type": "collection",
-            "settings": {
-              "collection": "voka-fashion",
-              "img_align": "center",
-              "title": "FOOTWEAR",
-              "url": "",
-              "col": "3",
-              "col_md": "3",
-              "col_mb": "6"
-            }
-          }
-        },
-        "block_order": [
-          "1598862023777-0",
-          "1598862023777-1",
-          "1598862023777-2",
-          "1598862023777-3"
-        ],
-        "settings": {
-          "title": "SHOP BY SELECT OUR CATEGORIES",
-          "sub_title": "",
-          "sub_font": "2",
-          "style_title": "title_14",
-          "ic_tt": "gem",
-          "show_clpr": false,
-          "cat_layout": "1",
-          "hoverz": true,
-          "cat_design": "5",
-          "cat_space": "30",
-          "spn_txt": "Shop now",
-          "pr_txt": "",
-          "loop": true,
-          "autoplay": false,
-          "au_time": 6,
-          "au_hover": true,
-          "button": false,
-          "btn_vi": "1",
-          "btn_owl": "1",
-          "btn_color": "0",
-          "dot": true,
-          "dot_owl": "1",
-          "dot_color": "1",
-          "hidden": false,
-          "cp_code": false,
-          "layout": "container",
-          "cl_bg": "rgba(0,0,0,0)",
-          "hide_bgimg": false,
-          "mg": "60px,,,",
-          "pd": "",
-          "mg_mb": "",
-          "pd_mb": "40px,,20px,"
-        }
-      },
-      "1598925848061": {
-        "type": "featured_collection_owl",
-        "settings": {
-          "title": "WE CAN'T KEEP THERE IN STOCK!",
-          "sub_title": "",
-          "sub_font": "2",
-          "btn_title": "See all products",
-          "style_title": "title_14",
-          "ic_tt": "gem",
-          "show_clpr": false,
-          "collection": "voka-fashion",
-          "limit": 8,
-          "space": 30,
-          "use_pagination": "none",
-          "btn_rd": true,
-          "btn_icon": false,
-          "btn_style": "default",
-          "col_pr": "3",
-          "col_pr_tb": "3",
-          "col_pr_mb": "6",
-          "pr_des": "1 tc",
-          "show_vendor": false,
-          "use_cdt": false,
-          "round_cd": false,
-          "cdt_des": "1",
-          "loop": true,
-          "au_time": 0,
-          "au_hover": true,
-          "button": true,
-          "btn_vi": "2",
-          "btn_owl": "1",
-          "btn_color": "0",
-          "dot": false,
-          "dot_owl": "1",
-          "dot_color": "1",
-          "use_eq_height": false,
-          "image_ratio": "ratio_nt",
-          "image_size": "nt_cover",
-          "image_position": "8",
-          "hidden": false,
-          "cp_code": false,
-          "layout": "container",
-          "cl_bg": "",
-          "mg": "55px,,50px,",
-          "pd": "",
-          "mg_mb": "",
-          "pd_mb": ""
-        }
-      },
-      "1598932616727": {
-        "type": "custom_html",
-        "settings": {
-          "code": "<p style=\"padding: 15px;background-color: #000;    letter-spacing: 0.1em;\" class=\"cw mg__0 tc fwm\">24H OUR ONLY! A TREASURE TROVE OF STYLE. <a class=\"cw\" href=\"https:\/\/gecko5.myshopify.com\/collections\/voka-fashion\" style=\" border-bottom: 2px solid; \">START YOUR LOOK <\/a><\/p>",
-          "layout": "container",
-          "cl_bg": "",
-          "mg": ",,30px,",
-          "pd": "",
-          "mg_mb": "",
-          "pd_mb": ""
-        }
-      },
-      "1598932956910": {
-        "type": "lookbook_img",
-        "blocks": {
-          "1598934103852": {
-            "type": "pr",
-            "settings": {
-              "pos_t": 29,
-              "pos_l": 36,
-              "type": "1",
-              "shorttxt": "1",
-              "pos_pin": "left",
-              "pos_size": "medium",
-              "effect": "fade",
-              "bg_cl": "#222222",
-              "product": "maria-lucia-hohan-halterneck"
-            }
-          },
-          "1598934282388": {
-            "type": "pr",
-            "settings": {
-              "pos_t": 26,
-              "pos_l": 46,
-              "type": "1",
-              "shorttxt": "$59",
-              "pos_pin": "top",
-              "pos_size": "medium",
-              "effect": "fade",
-              "bg_cl": "#222222",
-              "product": "cotton-jersey-bags"
-            }
-          },
-          "1598934368905": {
-            "type": "pr",
-            "settings": {
-              "pos_t": 30,
-              "pos_l": 65,
-              "type": "1",
-              "shorttxt": "$59",
-              "pos_pin": "right",
-              "pos_size": "medium",
-              "effect": "fade",
-              "bg_cl": "#222222",
-              "product": "korean-style-v-style-glasses"
-            }
-          },
-          "1598934502847": {
-            "type": "pr",
-            "settings": {
-              "pos_t": 64,
-              "pos_l": 58,
-              "type": "1",
-              "shorttxt": "$59",
-              "pos_pin": "top",
-              "pos_size": "medium",
-              "effect": "fade",
-              "bg_cl": "#222222",
-              "product": "black-straps-d8902"
-            }
-          },
-          "1598934581431": {
-            "type": "txt",
-            "settings": {
-              "pos_t": 68,
-              "pos_l": 49,
-              "type": "1",
-              "shorttxt": "$59",
-              "pos_pin": "top",
-              "pos_size": "medium",
-              "effect": "fade",
-              "bg_cl": "#222222",
-              "heading": "01 - Water Resistance",
-              "text": "<p>With groundbreaking water resistant capabilities, The Mission has the highest waterproof rating of any smartwatch on the market.<\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "1598934103852",
-          "1598934282388",
-          "1598934368905",
-          "1598934502847",
-          "1598934581431"
-        ],
-        "settings": {
-          "title": "",
-          "sub_title": "",
-          "sub_font": "2",
-          "style_title": "title_1",
-          "ic_tt": "gem",
-          "show_clpr": false,
-          "img_size": "1",
-          "hidden": false,
-          "cp_code": false,
-          "layout": "nt_full",
-          "cl_bg": "#ffffff",
-          "hide_bgimg": false,
-          "use_pr": false,
-          "mg": "20px,,,",
-          "pd": "",
-          "mg_mb": "",
-          "pd_mb": ""
-        }
-      },
-      "1598933455803": {
-        "type": "instagram_feed",
-        "blocks": {
-          "1598933455803-0": {
-            "type": "1",
-            "settings": {
-              "title": "INSTAGRAM FEED",
-              "sub_title": "Use #Gecko on Instagram to be featured",
-              "sub_font": "2",
-              "style_title": "title_14",
-              "ic_tt": "gem",
-              "show_clpr": false
-            }
-          },
-          "1598933455803-1": {
-            "type": "img",
-            "settings": {
-              "url": ""
-            }
-          },
-          "1598933455803-2": {
-            "type": "img",
-            "settings": {
-              "url": ""
-            }
-          },
-          "1598933455803-3": {
-            "type": "img",
-            "settings": {
-              "url": ""
-            }
-          },
-          "1598933455803-4": {
-            "type": "img",
-            "settings": {
-              "url": ""
-            }
-          },
-          "1598933455803-5": {
-            "type": "img",
-            "settings": {
-              "url": ""
-            }
-          },
-          "1598933455803-6": {
-            "type": "img",
-            "settings": {
-              "url": ""
-            }
-          }
-        },
-        "block_order": [
-          "1598933455803-0",
-          "1598933455803-1",
-          "1598933455803-2",
-          "1598933455803-3",
-          "1598933455803-4",
-          "1598933455803-5",
-          "1598933455803-6"
-        ],
-        "settings": {
-          "open_link": "_self",
-          "layout_des": "2",
-          "space": "15",
-          "rounded_ins": "0",
-          "col_pr": "3",
-          "col_pr_tb": "3",
-          "col_pr_mb": "6",
-          "loop": false,
-          "au_time": 0,
-          "au_hover": true,
-          "button": true,
-          "btn_vi": "2",
-          "btn_owl": "1",
-          "btn_color": "2",
-          "dot": false,
-          "dot_owl": "1",
-          "dot_color": "1",
-          "use_eq_height": true,
-          "image_ratio": "ratio1_1",
-          "image_size": "nt_cover",
-          "image_position": "8",
-          "layout": "container",
-          "cl_bg": "#ffffff",
-          "mg": "10px,,,",
-          "pd": "",
-          "mg_mb": "",
-          "pd_mb": ""
-        }
-      },
-      "1598951466210": {
-        "type": "brand_list",
-        "blocks": {
-          "1598951466210-0": {
-            "type": "brand",
-            "settings": {
-              "url": "",
-              "open_link": "_blank"
-            }
-          },
-          "1598951466210-1": {
-            "type": "brand",
-            "settings": {
-              "url": "",
-              "open_link": "_blank"
-            }
-          },
-          "1598951466210-2": {
-            "type": "brand",
-            "settings": {
-              "url": "",
-              "open_link": "_blank"
-            }
-          },
-          "1598951466210-3": {
-            "type": "brand",
-            "settings": {
-              "url": "",
-              "open_link": "_blank"
-            }
-          },
-          "1598951466210-4": {
-            "type": "brand",
-            "settings": {
-              "url": "",
-              "open_link": "_blank"
-            }
-          },
-          "1598951466210-5": {
-            "type": "brand",
-            "settings": {
-              "url": "",
-              "open_link": "_blank"
-            }
-          }
-        },
-        "block_order": [
-          "1598951466210-0",
-          "1598951466210-1",
-          "1598951466210-2",
-          "1598951466210-3",
-          "1598951466210-4",
-          "1598951466210-5"
-        ],
-        "settings": {
-          "title": "FEATURED BRAND",
-          "sub_title": "",
-          "sub_font": "2",
-          "style_title": "title_14",
-          "ic_tt": "gem",
-          "show_clpr": false,
-          "brand_layout": "1",
-          "cat_space": "30",
-          "col": "2",
-          "col_md": "6",
-          "col_mb": "6",
-          "brand_hover": "0",
-          "loop": true,
-          "autoplay": false,
-          "au_time": 0,
-          "au_hover": true,
-          "button": false,
-          "btn_vi": "1",
-          "btn_owl": "2",
-          "btn_color": "0",
-          "dot": true,
-          "dot_owl": "1",
-          "dot_color": "1",
-          "layout": "container",
-          "cl_bg": "",
-          "mg": "60px,,30px,",
-          "pd": "",
-          "mg_mb": "",
-          "pd_mb": ""
-        }
-      },
       "header_3": {
         "type": "header_3",
         "blocks": {
@@ -3243,17 +2405,106 @@
           "align": "tc",
           "hover": "hover_side_up"
         }
+      },
+      "58db03cc-ff7d-4f5a-9d96-90a12e67b6cb": {
+        "type": "slideshow",
+        "blocks": {
+          "839ac022-7f5b-4a2f-9a61-39d861b74a1d": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/20-g-Shilajit-with-safed-musli-New-Launch-Banner.webp",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none",
+              "bg_content_bl": false,
+              "bg_content_cl": "#fff",
+              "bg_content_op": 50,
+              "content_pd": "40px 80px",
+              "content_pd_mb": "10px 20px",
+              "border_bl": false,
+              "br_color": "#222",
+              "br_style": "solid",
+              "br_pd": 20,
+              "br_pd_mb": 10
+            }
+          },
+          "3365dca8-878f-470e-b560-e03eafc6e813": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banner-Web-1-1920x600-1.webp",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none",
+              "bg_content_bl": false,
+              "bg_content_cl": "#fff",
+              "bg_content_op": 50,
+              "content_pd": "40px 80px",
+              "content_pd_mb": "10px 20px",
+              "border_bl": false,
+              "br_color": "#222",
+              "br_style": "solid",
+              "br_pd": 20,
+              "br_pd_mb": 10
+            }
+          }
+        },
+        "block_order": [
+          "839ac022-7f5b-4a2f-9a61-39d861b74a1d",
+          "3365dca8-878f-470e-b560-e03eafc6e813"
+        ],
+        "settings": {
+          "se_height": "adapt",
+          "use_custom_h": "1",
+          "h_des": "600px",
+          "h_tb": "500px",
+          "h_mb": "350px",
+          "effect": "1",
+          "loop": false,
+          "autoplay": true,
+          "au_time": 6,
+          "au_hover": true,
+          "button": true,
+          "btn_vi": "2",
+          "btn_owl": "2",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "layout": "nt_full",
+          "cl_bg": "",
+          "mg": ",,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
       }
     },
     "content_for_index": [
-      "1581505806578",
-      "1598925848061",
-      "1598932616727",
-      "1598862023777",
-      "1598932956910",
-      "1581508031759",
-      "1598933455803",
-      "1598951466210"
+      "58db03cc-ff7d-4f5a-9d96-90a12e67b6cb"
     ]
   }
 }
