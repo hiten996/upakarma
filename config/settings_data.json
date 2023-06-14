@@ -416,7 +416,7 @@
           "1596007070336": {
             "type": "text2",
             "settings": {
-              "text": "<p>Summer sale discount <\/p>",
+              "text": "<p><a href=\"https:\/\/upakarma.com\/product-tag\/pure-shilajit\/\"><strong>☀️Summer☀️Sale is Live Now<\/strong><\/a><\/p>",
               "effect": "0",
               "au_time": 2.5,
               "hide": false,
@@ -434,10 +434,10 @@
         "settings": {
           "height": 20,
           "fontsize": 15,
-          "cl": "#ffffff",
+          "cl": "#000000",
           "cl_a": "#222222",
           "cl_cr": "#b59677",
-          "bg": "#222222",
+          "bg": "#dbc8aa",
           "bg_op": 100,
           "show_border": false,
           "bd_cl": "#000000",
