@@ -2509,9 +2509,9 @@
 
         ],
         "settings": {
-          "title": "Collection Slider",
-          "sub_title": "Sub Text",
-          "sub_font": "2",
+          "title": "NEW LAUNCHES",
+          "sub_title": "Pick One Do More",
+          "sub_font": "1",
           "btn_title": "See all products",
           "style_title": "title_3",
           "ic_tt": "gem",
@@ -2721,11 +2721,61 @@
           "txt": "Welcome to our store!",
           "social": "2"
         }
+      },
+      "a0ea2f5e-48b3-4520-9678-09aa48e5903d": {
+        "type": "featured_collection_owl",
+        "settings": {
+          "title": "BEST SELLERS",
+          "sub_title": "Our Best Selling Premium Quality Ayurvedic Products",
+          "sub_font": "1",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "frontpage",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "primary",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "2",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": false,
+          "au_time": 0,
+          "au_hover": false,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "3",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "wrap",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
       }
     },
     "content_for_index": [
       "58db03cc-ff7d-4f5a-9d96-90a12e67b6cb",
-      "0c617d7f-242b-4d9d-ad1d-973ebf75ba06"
+      "0c617d7f-242b-4d9d-ad1d-973ebf75ba06",
+      "a0ea2f5e-48b3-4520-9678-09aa48e5903d"
     ]
   },
   "platform_customizations": {
