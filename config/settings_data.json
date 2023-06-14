@@ -84,11 +84,11 @@
     "bgnavtr": "#222222",
     "opnavtr": 40,
     "clnavtr": "#ffffff",
-    "h_icon": "la",
+    "h_icon": "facl",
     "show_search": true,
     "show_wis": true,
     "show_acc": true,
-    "cart_des": "1",
+    "cart_des": "4",
     "bg_hc": "#623400",
     "cl_hc": "#ffffff",
     "btnt4_style": "1",
@@ -453,11 +453,24 @@
       "header_4": {
         "type": "header_4",
         "blocks": {
-          "1585641084245": {
+          "4ae5fc93-7f2c-4d6d-95e7-e38ce0aeba63": {
+            "type": "simple",
+            "settings": {
+              "title": "HOME",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "c86266fa-963b-4744-892d-8a3e2f3b0d3f": {
             "type": "mega",
             "settings": {
-              "title": "DEMO",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
+              "title": "HOME",
+              "url": "",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -465,233 +478,15 @@
               "lb": "",
               "lb_cl": "",
               "lazy_mn": true,
-              "pos": "center",
+              "pos": "default",
               "wid": "cus",
-              "cus_wid": 1000
-            }
-          },
-          "1585641102330": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "HOMEPAGES",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "1585904679958": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "HOMEPAGES",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "1585641133987": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "Header Layouts",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "1600073542502": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "FEATURES",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "1585641227863": {
-            "type": "mega",
-            "settings": {
-              "title": "SHOP",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ff3e11",
-              "lb": "NEW",
-              "lb_cl": "",
-              "lazy_mn": true,
-              "pos": "center",
-              "wid": "cus",
-              "cus_wid": 950
-            }
-          },
-          "1600074670602": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "SHOP PAGES",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "2"
-            }
-          },
-          "1600074673549": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "FEATURES",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "2"
-            }
-          },
-          "1600074809609": {
-            "type": "cat",
-            "settings": {
-              "cat_design": "1",
-              "hoverz": true,
-              "collection": "clothing",
-              "title": "WOMEN",
-              "col": "4"
-            }
-          },
-          "1585641269506": {
-            "type": "cat",
-            "settings": {
-              "cat_design": "1",
-              "hoverz": true,
-              "collection": "clothing",
-              "title": "MEN",
-              "col": "4"
-            }
-          },
-          "1585641558196": {
-            "type": "mega",
-            "settings": {
-              "title": "PRODUCT",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "HOT",
-              "lb_cl": "#ff3e11",
-              "lazy_mn": true,
-              "pos": "center",
-              "wid": "cus",
-              "cus_wid": 1050
-            }
-          },
-          "1585651740816": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "PRODUCT LAYOUT",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "1585641594950": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "PRODUCT DETAIL",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "1600078264778": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "PRODUCT SWATCH",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "1600078266941": {
-            "type": "link",
-            "settings": {
-              "tt_hd": "PRODUCT FEATURES",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "1585641802325": {
-            "type": "dropdown",
-            "settings": {
-              "title": "PORTFOLIO",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": "",
-              "lazy_mn": true,
-              "pos": "right"
-            }
-          },
-          "1585641835304": {
-            "type": "dropdown",
-            "settings": {
-              "title": "LOOKBOOK",
-              "url": "https:\/\/gecko5.myshopify.com\/?preview_theme_id=",
-              "open_link": "_self",
-              "menu": "",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": "",
-              "lazy_mn": true,
-              "pos": "right"
-            }
-          },
-          "1585641843539": {
-            "type": "dropdown",
-            "settings": {
-              "title": "BLOG",
-              "url": "shopify:\/\/blogs\/life-style",
-              "open_link": "_self",
-              "menu": "",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": "",
-              "lazy_mn": true,
-              "pos": "left"
+              "cus_wid": 1200
             }
           }
         },
         "block_order": [
-          "1585641084245",
-          "1585641102330",
-          "1585904679958",
-          "1585641133987",
-          "1600073542502",
-          "1585641227863",
-          "1600074670602",
-          "1600074673549",
-          "1600074809609",
-          "1585641269506",
-          "1585641558196",
-          "1585651740816",
-          "1585641594950",
-          "1600078264778",
-          "1600078266941",
-          "1585641802325",
-          "1585641835304",
-          "1585641843539"
+          "4ae5fc93-7f2c-4d6d-95e7-e38ce0aeba63",
+          "c86266fa-963b-4744-892d-8a3e2f3b0d3f"
         ],
         "custom_css": [
           "nav.nt_navigation.tc.hover_side_up.nav_arrow_false {background: #dbc8aa;}"
