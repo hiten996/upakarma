@@ -8,7 +8,7 @@
     "base_font_shopify": "poppins_n4",
     "type_base_size": "12px",
     "body_layout": "full_width",
-    "header_layout": "header_default",
+    "header_layout": "header_2",
     "list_collections_layout": "collections_default_grid",
     "category_layouts": "layout_default",
     "product_layout": "pr_layout_default",
