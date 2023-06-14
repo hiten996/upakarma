@@ -2440,6 +2440,79 @@
           "61f1ccc1-f778-437d-afbf-5a54edde1105-16867471076084c596-0": {
             "type": "image",
             "settings": {
+              "image_slide": "shopify:\/\/shop_images\/20-g-Shilajit-with-safed-musli-New-Launch-Banner.webp",
+              "alignment": "left",
+              "sub_heading": "",
+              "heading": "",
+              "slide-des": "",
+              "button_slide": "",
+              "link": "",
+              "product_1": "",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30,
+              "product_4": "",
+              "coordinates_x_4": 30,
+              "coordinates_y_4": 30
+            }
+          },
+          "2a125c16-d86f-48fa-9501-b53009f88792": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/Banner-Web-1-1920x600-1.webp",
+              "alignment": "left",
+              "sub_heading": "",
+              "heading": "",
+              "slide-des": "",
+              "button_slide": "",
+              "link": "",
+              "product_1": "",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30,
+              "product_4": "",
+              "coordinates_x_4": 30,
+              "coordinates_y_4": 30
+            }
+          },
+          "24bb884d-2c63-4a03-82b9-64c42017d556": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/new-product-launch-banner.webp",
+              "alignment": "left",
+              "sub_heading": "",
+              "heading": "",
+              "slide-des": "",
+              "button_slide": "",
+              "link": "",
+              "product_1": "",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30,
+              "product_4": "",
+              "coordinates_x_4": 30,
+              "coordinates_y_4": 30
+            }
+          },
+          "18b56fa7-6a6c-4617-85c5-639d9446a255": {
+            "type": "image",
+            "settings": {
+              "image_slide": "shopify:\/\/shop_images\/10-g-Shilajit-New-Launch-Banner-1-1.webp",
               "alignment": "left",
               "sub_heading": "",
               "heading": "",
@@ -2462,7 +2535,10 @@
           }
         },
         "block_order": [
-          "61f1ccc1-f778-437d-afbf-5a54edde1105-16867471076084c596-0"
+          "61f1ccc1-f778-437d-afbf-5a54edde1105-16867471076084c596-0",
+          "2a125c16-d86f-48fa-9501-b53009f88792",
+          "24bb884d-2c63-4a03-82b9-64c42017d556",
+          "18b56fa7-6a6c-4617-85c5-639d9446a255"
         ],
         "settings": {
           "layout": "full",
