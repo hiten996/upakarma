@@ -254,7 +254,7 @@
     "color_bg_btt": "#ffffff",
     "postion_abs_hd_hp": true,
     "color_bg_header_middle_2_hp": "rgba(0,0,0,0)",
-    "color_nav_2_hp": "#fae3ca",
+    "color_nav_2_hp": "#323232",
     "color_text_hp": "#fff",
     "color_bg_announcement_bar_2": "#f2e3ca",
     "color_announcement_bar_2": "#44311c",
@@ -262,8 +262,8 @@
     "color_text": "#787878",
     "background_count_item": "#282828",
     "color_count_item": "#fff",
-    "color_bg_announcement_bar": "#2e3031",
-    "color_announcement_bar": "#ffffff",
+    "color_bg_announcement_bar": "#dbc8aa",
+    "color_announcement_bar": "#323232",
     "color_bg_header_middle": "#f5f5f5",
     "color_header_middle": "#464646",
     "color_bor_middle": "#c8c8c8",
@@ -279,7 +279,7 @@
     "color_header_mb": "#2e3031",
     "color_item_cart": "#fff",
     "color_logo_mb": "#2e3031",
-    "bg_menu": "#fafafa",
+    "bg_menu": "#dbc8aa",
     "bg_dropdown_menu": "#fff",
     "color_menu_lv1": "#8b714a",
     "hover_color_mnu_lv1": "#282828",
@@ -477,13 +477,16 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+          ".item.item--quickSearch {border-radius: 50px;}"
+        ],
         "settings": {
           "message": true,
           "message_text": "Limited-Time Offers: Mid-Season Sale Up To 70% Off",
           "message_link": "",
           "header_middle": true,
           "enable_free_shopping": true,
-          "free_shipping_text": "FREE SHIPPING* <br>No Minimum purchase",
+          "free_shipping_text": "",
           "enable_header_search": true,
           "enable_header_account": true,
           "enable_header_wishlist": true,
@@ -492,10 +495,10 @@
           "logo_text": "",
           "logo_text_size": "25px",
           "logo_text_size_mb": "20px",
-          "logo_pc": "shopify:\/\/shop_images\/logo.png",
+          "logo_pc": "shopify:\/\/shop_images\/Upakarma-Logo.webp",
           "max_height_logo_pc": "100px",
-          "logo": "shopify:\/\/shop_images\/logo.png",
-          "max_height_logo_mb": "25px"
+          "logo": "shopify:\/\/shop_images\/Upakarma-Logo.webp",
+          "max_height_logo_mb": "40px"
         }
       },
       "footer": {
