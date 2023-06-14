@@ -2560,6 +2560,7 @@
         "blocks": {
           "wis_heading-0": {
             "type": "2",
+            "disabled": true,
             "settings": {
               "text": "<p>View your wishlist products<\/p>"
             }
@@ -2568,10 +2569,13 @@
         "block_order": [
           "wis_heading-0"
         ],
+        "custom_css": [
+
+        ],
         "settings": {
           "parallax": false,
-          "color": "#000",
-          "overlay": 54,
+          "color": "#000000",
+          "overlay": 0,
           "padding": 50,
           "paddingmb": 50,
           "bg_pos": "center center",
@@ -2596,7 +2600,7 @@
           "wishlist_page-0"
         ],
         "settings": {
-          "shop_layout": "wide",
+          "shop_layout": "default",
           "show_col_switch": true,
           "limit": 12,
           "space": 30,
@@ -2622,6 +2626,11 @@
     "content_for_index": [
       "58db03cc-ff7d-4f5a-9d96-90a12e67b6cb",
       "0c617d7f-242b-4d9d-ad1d-973ebf75ba06"
+    ]
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".page-head.tc.pr.oh.page_head_wis_heading {display: none;}"
     ]
   }
 }
