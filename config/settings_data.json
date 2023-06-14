@@ -2868,7 +2868,7 @@
           "a6a3ac08-9b28-4c4f-8f1e-79b9577f89ac"
         ],
         "settings": {
-          "title": "",
+          "title": "MEDIA & AWARDS",
           "sub_title": "",
           "sub_font": "2",
           "style_title": "title_1",
@@ -2987,7 +2987,7 @@
           "403cda5e-12d3-4120-aeca-0cde140aa7a8"
         ],
         "settings": {
-          "title": "",
+          "title": "LATEST TESTIMONIALS",
           "sub_title": "",
           "sub_font": "2",
           "style_title": "title_1",
@@ -3017,6 +3017,201 @@
           "mg_mb": "",
           "pd_mb": ""
         }
+      },
+      "6678aa87-8d2b-49c3-a16d-d645e3db57ab": {
+        "type": "featured_collection_owl",
+        "settings": {
+          "title": "BEST SELLING COMBOS",
+          "sub_title": "BEST SELLING COMBOS",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "frontpage",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "primary",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "2",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": false,
+          "au_time": 0,
+          "au_hover": false,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "3",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "wrap",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "79bbc8c5-11f0-45e0-bb40-dee55353a972": {
+        "type": "brand_list",
+        "blocks": {
+          "2f7ca342-d7e7-4be0-9596-496b6ddbc308": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/The-Times-Of-India-1_9d6bc934-6330-4c42-8e5c-21b569c9162a.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "bfb76b55-07c1-4c8d-b002-18133a364ccb": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/forbes-1_21c5a337-f10f-4f9b-adc5-7bc15784b5c2.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "e5c6b313-5a51-41d0-989a-1b31df3b9b11": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Livemint-1.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "81b7ac3e-c1c0-402d-bca6-5c012c46d465": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/The-Financial-Express-1_1e77c397-533e-4ad7-a530-3411bff9e576.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "34bdd0ca-d463-4089-b2fd-a27500bf8931": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Living-Foodz-1_33918954-4173-4e45-aedd-51c90e3281c3.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "587cc310-ff0b-45eb-b1e1-6667a8740936": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Pioneer-1.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "931ad7a9-0801-4dce-bc1f-95abb4872714": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Cosmopolitan.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "28662453-d94e-44cd-923d-1f77903db516": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Indulge-1.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "1240e823-7c95-4a18-9b03-adf60a46910a": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/CNBC-TV-18-1_41dc67b7-232b-49f9-a33b-0ed9fed534ef.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "d42456da-ddf7-4481-a302-097eb870227b": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Yourstory-1_f39e6d86-9808-4c43-97c4-eae4c6cc9194.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "750c2e1e-f399-407b-ad74-4cb12779b5ea": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Business-Standard-1_0d1b36e9-4c33-46d4-b66c-e938d4d04124.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "4d88b49b-b824-4cc2-97ed-0ab439e21fa7": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/India-Today_1.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          }
+        },
+        "block_order": [
+          "2f7ca342-d7e7-4be0-9596-496b6ddbc308",
+          "bfb76b55-07c1-4c8d-b002-18133a364ccb",
+          "e5c6b313-5a51-41d0-989a-1b31df3b9b11",
+          "81b7ac3e-c1c0-402d-bca6-5c012c46d465",
+          "34bdd0ca-d463-4089-b2fd-a27500bf8931",
+          "587cc310-ff0b-45eb-b1e1-6667a8740936",
+          "931ad7a9-0801-4dce-bc1f-95abb4872714",
+          "28662453-d94e-44cd-923d-1f77903db516",
+          "1240e823-7c95-4a18-9b03-adf60a46910a",
+          "d42456da-ddf7-4481-a302-097eb870227b",
+          "750c2e1e-f399-407b-ad74-4cb12779b5ea",
+          "4d88b49b-b824-4cc2-97ed-0ab439e21fa7"
+        ],
+        "settings": {
+          "title": "MEDIA COVERAGE",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "brand_layout": "2",
+          "cat_space": "30",
+          "col": "4",
+          "col_md": "6",
+          "col_mb": "6",
+          "brand_hover": "0",
+          "loop": true,
+          "autoplay": true,
+          "au_time": 4,
+          "au_hover": true,
+          "button": true,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "2",
+          "dot_color": "3",
+          "layout": "wrap",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
       }
     },
     "content_for_index": [
@@ -3024,6 +3219,8 @@
       "0c617d7f-242b-4d9d-ad1d-973ebf75ba06",
       "a0ea2f5e-48b3-4520-9678-09aa48e5903d",
       "89245b10-8b5d-4cd5-8711-91529e17995e",
+      "6678aa87-8d2b-49c3-a16d-d645e3db57ab",
+      "79bbc8c5-11f0-45e0-bb40-dee55353a972",
       "a26de3a4-ea7c-48dc-b6d4-e4a9e809685c"
     ]
   },
