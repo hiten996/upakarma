@@ -672,28 +672,28 @@
             "type": "footer_link",
             "settings": {
               "footer_title": "Further Info",
-              "footer_linklist": "further-info"
+              "footer_linklist": ""
             }
           },
           "1578311490388": {
             "type": "footer_link",
             "settings": {
               "footer_title": "Shop",
-              "footer_linklist": "shop"
+              "footer_linklist": ""
             }
           },
           "1578311555660": {
             "type": "footer_link",
             "settings": {
               "footer_title": "our top brands",
-              "footer_linklist": "our-top-brands"
+              "footer_linklist": ""
             }
           },
           "1578311588107": {
             "type": "footer_link",
             "settings": {
               "footer_title": "Customer service",
-              "footer_linklist": "customer-service"
+              "footer_linklist": ""
             }
           },
           "1578305429163": {
@@ -779,30 +779,7 @@
           "payment_display_litecoin": false,
           "payment_display_stripe": false,
           "payment_display_sage": false,
-          "payment_display_wallet": false,
-          "icon_visa": "shopify:\/\/shop_images\/visa.png",
-          "icon_visa_electron": "",
-          "icon_master": "shopify:\/\/shop_images\/icon-2.png",
-          "icon_american_express": "shopify:\/\/shop_images\/icon-3.png",
-          "icon_maestro": "",
-          "icon_solo": "",
-          "icon_paypal": "shopify:\/\/shop_images\/icon-7.png",
-          "icon_amazon_payments": "",
-          "icon_apple_pay": "",
-          "icon_bitcoin": "",
-          "icon_cirrus": "",
-          "icon_dankort": "",
-          "icon_diners_club": "shopify:\/\/shop_images\/icon-6.png",
-          "icon_discover": "shopify:\/\/shop_images\/icon-4.png",
-          "icon_dogecoin": "",
-          "icon_dwolla": "",
-          "icon_forbrugsforeningen": "",
-          "icon_interac": "",
-          "icon_jcb": "shopify:\/\/shop_images\/icon-5.png",
-          "icon_litecoin": "",
-          "icon_stripe": "",
-          "icon_sage": "",
-          "icon_wallet": ""
+          "payment_display_wallet": false
         }
       },
       "faq-page": {
@@ -2650,7 +2627,7 @@
               "title": "Bracelets",
               "sub_title": "Sale Up to 10% Off",
               "title_link": "Diamond Rings",
-              "link": ""
+              "link": "shopify:\/\/products\/ashwagandha-effervescent-tablets"
             }
           },
           "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-1": {
