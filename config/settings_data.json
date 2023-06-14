@@ -492,9 +492,7 @@
           "logo_text": "",
           "logo_text_size": "25px",
           "logo_text_size_mb": "20px",
-          "logo_pc": "shopify:\/\/shop_images\/logo.png",
           "max_height_logo_pc": "100px",
-          "logo": "shopify:\/\/shop_images\/logo.png",
           "max_height_logo_mb": "25px"
         }
       },
@@ -650,6 +648,7 @@
         "settings": {
           "horizontal_linklist": "main-menu",
           "display_fixtop_menu": true,
+          "logo_fix": "shopify:\/\/shop_images\/Upakarma-Logo.webp",
           "enable_sale": true,
           "lb_sale": "Sale",
           "sale_item": "watches",
