@@ -427,6 +427,9 @@
         "block_order": [
           "1596007070336"
         ],
+        "custom_css": [
+          ".row.al_center {justify-content: center;}"
+        ],
         "settings": {
           "height": 20,
           "fontsize": 15,
