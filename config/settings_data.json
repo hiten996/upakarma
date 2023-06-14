@@ -2910,26 +2910,10 @@
               "open_link": "_blank"
             }
           },
-          "a37e52ab-daf4-42dd-ad73-923d60e52d63": {
-            "type": "brand",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/product-business-of-the-year-award.webp",
-              "url": "",
-              "open_link": "_blank"
-            }
-          },
-          "65f27032-f829-4677-8aff-f5082a5af43b": {
-            "type": "brand",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/inc-42-fast-42-500by500-1.webp",
-              "url": "",
-              "open_link": "_blank"
-            }
-          },
           "998545b6-1cbd-41ae-8b6b-fe274ae90864": {
             "type": "brand",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Vogue-Award-Mobile-Banner.webp",
+              "image": "shopify:\/\/shop_images\/testimonial-kesar.webp",
               "url": "",
               "open_link": "_blank"
             }
@@ -2937,7 +2921,7 @@
           "d774e3cd-75da-4ee8-a1c1-73930e2aa7b1": {
             "type": "brand",
             "settings": {
-              "image": "shopify:\/\/shop_images\/D2C-AWARD-1.webp",
+              "image": "shopify:\/\/shop_images\/chyanpras.webp",
               "url": "",
               "open_link": "_blank"
             }
@@ -2945,7 +2929,7 @@
           "536cd177-1aed-4f5e-ad14-8dfed49b786e": {
             "type": "brand",
             "settings": {
-              "image": "shopify:\/\/shop_images\/EI.webp",
+              "image": "shopify:\/\/shop_images\/chyanpras.webp",
               "url": "",
               "open_link": "_blank"
             }
@@ -2953,7 +2937,7 @@
           "0e872cf2-3c88-49a3-955b-bee30d46e2d5": {
             "type": "brand",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Shilajitl-500X500-media.webp",
+              "image": "shopify:\/\/shop_images\/tea-1.webp",
               "url": "",
               "open_link": "_blank"
             }
@@ -2961,7 +2945,7 @@
           "9d858346-2c74-4bdc-9697-92795eb61715": {
             "type": "brand",
             "settings": {
-              "image": "shopify:\/\/shop_images\/award2.webp",
+              "image": "shopify:\/\/shop_images\/testimonial-BADAM-ROGAN-2-1_1.webp",
               "url": "",
               "open_link": "_blank"
             }
@@ -2969,7 +2953,7 @@
           "54de7abe-66c1-4e32-a324-6b64603d0499": {
             "type": "brand",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Vitamin-C-500X500-Creatives.webp",
+              "image": "shopify:\/\/shop_images\/testimonial-ashwagandha_1.webp",
               "url": "",
               "open_link": "_blank"
             }
@@ -2977,7 +2961,15 @@
           "336665ef-619a-43a3-acc8-9d52486ab674": {
             "type": "brand",
             "settings": {
-              "image": "shopify:\/\/shop_images\/award-white-background.webp",
+              "image": "shopify:\/\/shop_images\/testimonial-Jamun-karela-juice.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "403cda5e-12d3-4120-aeca-0cde140aa7a8": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/testimonial-BADAM-ROGAN-2-1.webp",
               "url": "",
               "open_link": "_blank"
             }
@@ -2985,15 +2977,14 @@
         },
         "block_order": [
           "745ee274-7389-426d-95f5-d0d45fe0310c",
-          "a37e52ab-daf4-42dd-ad73-923d60e52d63",
-          "65f27032-f829-4677-8aff-f5082a5af43b",
           "998545b6-1cbd-41ae-8b6b-fe274ae90864",
           "d774e3cd-75da-4ee8-a1c1-73930e2aa7b1",
           "536cd177-1aed-4f5e-ad14-8dfed49b786e",
           "0e872cf2-3c88-49a3-955b-bee30d46e2d5",
           "9d858346-2c74-4bdc-9697-92795eb61715",
           "54de7abe-66c1-4e32-a324-6b64603d0499",
-          "336665ef-619a-43a3-acc8-9d52486ab674"
+          "336665ef-619a-43a3-acc8-9d52486ab674",
+          "403cda5e-12d3-4120-aeca-0cde140aa7a8"
         ],
         "settings": {
           "title": "",
