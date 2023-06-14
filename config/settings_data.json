@@ -191,7 +191,7 @@
     "auto_hide_ofsock": false,
     "show_hide_ofsock": false,
     "pr_layout": "default",
-    "design_products": "1",
+    "design_products": "4",
     "size_img_pr": "2",
     "nav_img_pr": "medium",
     "use_sticky_des": true,
@@ -1470,13 +1470,14 @@
           "pr_summary-0": {
             "type": "title",
             "settings": {
-              "size": 16
+              "size": 21
             }
           },
           "pr_summary-1": {
             "type": "pricereview",
             "settings": {
               "price": "0",
+              "show_available": true,
               "rating": true
             }
           },
@@ -1512,7 +1513,6 @@
               "mess": "",
               "size": 16,
               "source": "1",
-              "image": "shopify:\/\/shop_images\/trust_img2.png",
               "al": "tl",
               "wimg": 60,
               "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,klarna,klarna-pay-later,litecoin,maestro,master,paypal,shopify_pay,sofort,visa",
@@ -1523,9 +1523,9 @@
             "type": "size",
             "settings": {
               "size_chart": "2",
+              "pos_sizeg": "1",
               "sc_type": "1",
               "page": "",
-              "image": "",
               "size_ck": "",
               "delivery": true,
               "page_dr": "",
@@ -1537,6 +1537,7 @@
             "settings": {
               "show_pr_vendor": false,
               "show_sku": true,
+              "show_barcode": false,
               "show_category_product": true,
               "show_tag_product": true
             }
@@ -1599,7 +1600,7 @@
         "settings": {
           "show": true,
           "bgcl": "#f6f6f8",
-          "bgclmb": "#fff",
+          "bgclmb": "#ffffff",
           "des_w": "3",
           "des_mb": "2",
           "auto": false,
