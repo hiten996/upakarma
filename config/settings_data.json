@@ -3279,6 +3279,71 @@
           "mg_mb": "",
           "pd_mb": ""
         }
+      },
+      "2c81080c-e91f-4bb5-bb37-29170851d183": {
+        "type": "brand_list",
+        "blocks": {
+          "2c81080c-e91f-4bb5-bb37-29170851d183-16867731168ccd3e18-0": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ISO.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "2c81080c-e91f-4bb5-bb37-29170851d183-16867731168ccd3e18-1": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WHO-01.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "2c81080c-e91f-4bb5-bb37-29170851d183-16867731168ccd3e18-5": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Lab-Tested-1.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          }
+        },
+        "block_order": [
+          "2c81080c-e91f-4bb5-bb37-29170851d183-16867731168ccd3e18-0",
+          "2c81080c-e91f-4bb5-bb37-29170851d183-16867731168ccd3e18-1",
+          "2c81080c-e91f-4bb5-bb37-29170851d183-16867731168ccd3e18-5"
+        ],
+        "settings": {
+          "title": "OUR CERTIFICATIONS",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "brand_layout": "1",
+          "cat_space": "30",
+          "col": "2",
+          "col_md": "6",
+          "col_mb": "6",
+          "brand_hover": "0",
+          "loop": true,
+          "autoplay": false,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "2",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "layout": "wrap",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
       }
     },
     "content_for_index": [
@@ -3289,7 +3354,8 @@
       "6678aa87-8d2b-49c3-a16d-d645e3db57ab",
       "79bbc8c5-11f0-45e0-bb40-dee55353a972",
       "a26de3a4-ea7c-48dc-b6d4-e4a9e809685c",
-      "93abb983-b865-4d49-850c-7d5c3b9645c7"
+      "93abb983-b865-4d49-850c-7d5c3b9645c7",
+      "2c81080c-e91f-4bb5-bb37-29170851d183"
     ]
   },
   "platform_customizations": {
