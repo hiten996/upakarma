@@ -431,7 +431,8 @@
         ],
         "custom_css": [
           ".row.al_center {justify-content: center;}",
-          "p {text-align: center;}"
+          "p {text-align: center;}",
+          ".h__top.bgbl.pt__10.pb__10.fs__12.flex.fl_center.al_center {padding: 0px;}"
         ],
         "settings": {
           "height": 20,
