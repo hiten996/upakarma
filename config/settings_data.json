@@ -2553,11 +2553,12 @@
           "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-0": {
             "type": "banner_block",
             "settings": {
-              "sub_title": "Loremous",
+              "image": "shopify:\/\/shop_images\/1.png",
+              "sub_title": "",
               "title": "Milancelos A Lanos",
               "description": "Nullam aliquet vestibulum augue non varius. Cras de congue an elitos. Duis tristique delo sante delos maliquam praesent nurna tellus...",
               "button": "Shop Now",
-              "link": ""
+              "link": "shopify:\/\/products\/pure-shilajit-effervescent-tablets-orange-flavour"
             }
           },
           "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-1": {
@@ -2589,13 +2590,24 @@
               "button": "Shop Now",
               "link": ""
             }
+          },
+          "defecdc4-b904-479d-a91a-d476cbd4ff77": {
+            "type": "banner_block",
+            "settings": {
+              "sub_title": "Loremous",
+              "title": "Milancelos A Lanos",
+              "description": "Nullam aliquet vestibulum augue non varius. Cras de congue an elitos. Duis tristique delo sante delos maliquam praesent nurna tellus...",
+              "button": "Shop Now",
+              "link": ""
+            }
           }
         },
         "block_order": [
           "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-0",
           "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-1",
           "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-2",
-          "c1d3e1ab-b1e4-4c27-899c-a6c1046fee66"
+          "c1d3e1ab-b1e4-4c27-899c-a6c1046fee66",
+          "defecdc4-b904-479d-a91a-d476cbd4ff77"
         ],
         "settings": {
           "widget_title": "Trending Now",
