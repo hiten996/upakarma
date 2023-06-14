@@ -5,7 +5,7 @@ var geckoShopify,ThemeIdLoT4,
 try {
    sp_nt_storage = (typeof(Storage) !== "undefined" && Enablestorage);
    localStorage.setItem('gecko', 'test'); localStorage.removeItem('gecko');
-   ThemeIdLoT4 = localStorage.getItem(ThemeNameT42);
+   ThemeIdLoT4 = (ThemeNameT42 = 'true');
 } catch (err) {
    sp_nt_storage = false;
 }
