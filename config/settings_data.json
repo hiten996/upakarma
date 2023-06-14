@@ -805,564 +805,6 @@
           "icon_wallet": ""
         }
       },
-      "1578542087674": {
-        "type": "slideshow",
-        "blocks": {
-          "1578542087674-0": {
-            "type": "image",
-            "settings": {
-              "alignment": "left",
-              "sub_heading": "",
-              "heading": "Cosmour Doros",
-              "slide-des": "Detiam in sapien odio senenatis leo maecenas de milancelos cosmour modio.",
-              "button_slide": "Shop Now",
-              "link": "",
-              "product_1": "",
-              "coordinates_x_1": 36,
-              "coordinates_y_1": 48,
-              "product_2": "",
-              "coordinates_x_2": 20,
-              "coordinates_y_2": 20,
-              "product_3": "",
-              "coordinates_x_3": 30,
-              "coordinates_y_3": 30,
-              "product_4": "",
-              "coordinates_x_4": 30,
-              "coordinates_y_4": 30
-            }
-          },
-          "1578560941689": {
-            "type": "image",
-            "settings": {
-              "alignment": "left",
-              "sub_heading": "",
-              "heading": "Metropolis",
-              "slide-des": "Detiam in sapien odio senenatis leo maecenas de milancelos cosmour modio.",
-              "button_slide": "Shop Now",
-              "link": "",
-              "product_1": "",
-              "coordinates_x_1": 36,
-              "coordinates_y_1": 48,
-              "product_2": "",
-              "coordinates_x_2": 20,
-              "coordinates_y_2": 20,
-              "product_3": "",
-              "coordinates_x_3": 30,
-              "coordinates_y_3": 30,
-              "product_4": "",
-              "coordinates_x_4": 30,
-              "coordinates_y_4": 30
-            }
-          }
-        },
-        "block_order": [
-          "1578542087674-0",
-          "1578560941689"
-        ],
-        "settings": {
-          "layout": "full",
-          "slide_height": "large",
-          "text_size": "large",
-          "show_arrows": false,
-          "show_arrows_below": true,
-          "show_dots": true,
-          "show_fadein": true,
-          "show_image_parallax": true,
-          "autoplay": true,
-          "show_button_mb": true,
-          "show_content_bottom": false,
-          "video_height": "44.2%",
-          "autorotate_speed": 6,
-          "custom_color": false,
-          "color_sub_heading": "",
-          "color_heading": "",
-          "color_text": "",
-          "color_button_text": "",
-          "color_button_border": "",
-          "color_button_bg": "",
-          "color_button_text_hover": "",
-          "color_button_border_hover": "",
-          "color_button_bg_hover": "",
-          "color_arrow": "",
-          "color_arrow_border": "",
-          "color_dot": "",
-          "color_dot_border": ""
-        }
-      },
-      "1579057185264": {
-        "type": "home-instagram",
-        "blocks": {
-          "1585275589997": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275593353": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275594721": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275595761": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275597150": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275602050": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275778135": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275779372": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275782149": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          },
-          "1585275784691": {
-            "type": "instagram_block",
-            "settings": {
-            }
-          }
-        },
-        "block_order": [
-          "1585275589997",
-          "1585275593353",
-          "1585275594721",
-          "1585275595761",
-          "1585275597150",
-          "1585275602050",
-          "1585275778135",
-          "1585275779372",
-          "1585275782149",
-          "1585275784691"
-        ],
-        "settings": {
-          "instagram_option": "block",
-          "accessToken": "<script src=\"https:\/\/snapppt.com\/widgets\/widget_loader\/68697ddb-aaac-437e-9010-a83259efd3aa\/grid.js\" defer class=\"snapppt-widget\"><\/script>",
-          "instagram_layout": "layout_1",
-          "title": "#Jewel Image glalery",
-          "load_more": true,
-          "text_all": "View Gallery",
-          "text_all_link": "",
-          "custom_color": false,
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0,
-          "back_section": "",
-          "color_title": "",
-          "arrow_button": "",
-          "background_button": "",
-          "border_button": "",
-          "color_button": "",
-          "background_button_hover": "",
-          "border_button_hover": "",
-          "color_button_hover": ""
-        }
-      },
-      "1579145124276": {
-        "type": "rich-text",
-        "settings": {
-          "custom_color": false,
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0,
-          "color_title": "",
-          "color_text": "",
-          "section_title": "About Store",
-          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis de amet eros. Nam suscipito mollis tellus vel malesuada duis danos an molestie.<\/p>"
-        }
-      },
-      "1579149252057": {
-        "type": "home-section-policy",
-        "blocks": {
-          "1579149252057-0": {
-            "type": "text",
-            "settings": {
-              "des_policy": "worldwide Delivery",
-              "link_policy": "shopify:\/\/collections\/dincidunteros"
-            }
-          },
-          "1579149252057-1": {
-            "type": "text",
-            "settings": {
-              "des_policy": "Free and easy returns",
-              "link_policy": "shopify:\/\/collections\/condimentum"
-            }
-          },
-          "1579149252057-2": {
-            "type": "text",
-            "settings": {
-              "des_policy": "rewards program",
-              "link_policy": "shopify:\/\/collections\/bracelets"
-            }
-          }
-        },
-        "block_order": [
-          "1579149252057-0",
-          "1579149252057-1",
-          "1579149252057-2"
-        ],
-        "settings": {
-          "enable": true,
-          "results_per_row_rc": "3",
-          "custom_color": false,
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0,
-          "background": "",
-          "color_text": ""
-        }
-      },
-      "1579156711820": {
-        "type": "slideshow",
-        "blocks": {
-          "1579156711820-0": {
-            "type": "image",
-            "settings": {
-              "alignment": "right",
-              "sub_heading": "New Arrivals",
-              "heading": "Cosmo La Milancelos",
-              "slide-des": "Detiam in sapien odio senenatis leo maecenas de milancelos cosmour modio.",
-              "button_slide": "Shop the Collection",
-              "link": "",
-              "product_1": "",
-              "coordinates_x_1": 36,
-              "coordinates_y_1": 48,
-              "product_2": "",
-              "coordinates_x_2": 20,
-              "coordinates_y_2": 20,
-              "product_3": "",
-              "coordinates_x_3": 30,
-              "coordinates_y_3": 30,
-              "product_4": "",
-              "coordinates_x_4": 30,
-              "coordinates_y_4": 30
-            }
-          }
-        },
-        "block_order": [
-          "1579156711820-0"
-        ],
-        "settings": {
-          "layout": "full",
-          "slide_height": "medium",
-          "text_size": "large",
-          "show_arrows": true,
-          "show_arrows_below": false,
-          "show_dots": true,
-          "show_fadein": false,
-          "show_image_parallax": true,
-          "autoplay": true,
-          "show_button_mb": false,
-          "show_content_bottom": false,
-          "video_height": "44.2%",
-          "autorotate_speed": 5,
-          "custom_color": false,
-          "color_sub_heading": "",
-          "color_heading": "",
-          "color_text": "",
-          "color_button_text": "",
-          "color_button_border": "",
-          "color_button_bg": "",
-          "color_button_text_hover": "",
-          "color_button_border_hover": "",
-          "color_button_bg_hover": "",
-          "color_arrow": "",
-          "color_arrow_border": "",
-          "color_dot": "",
-          "color_dot_border": ""
-        }
-      },
-      "1579159366060": {
-        "type": "home-featured-collections",
-        "blocks": {
-          "1579159366060-0": {
-            "type": "collection_item",
-            "settings": {
-              "title": "Diamond Rings",
-              "sub_title": "",
-              "title_link": "Shop the Collection",
-              "link": ""
-            }
-          },
-          "1579159366060-1": {
-            "type": "collection_item",
-            "settings": {
-              "title": "Bracelets",
-              "sub_title": "",
-              "title_link": "Shop the Collection",
-              "link": ""
-            }
-          },
-          "1579159366060-2": {
-            "type": "collection_item",
-            "settings": {
-              "title": "Wedding Rings",
-              "sub_title": "",
-              "title_link": "Shop the Collection",
-              "link": ""
-            }
-          },
-          "1579159366060-3": {
-            "type": "collection_item",
-            "settings": {
-              "title": "Earrings",
-              "sub_title": "",
-              "title_link": "Shop the Collection",
-              "link": ""
-            }
-          },
-          "1579159488318": {
-            "type": "collection_item",
-            "settings": {
-              "title": "swarovski pendants",
-              "sub_title": "",
-              "title_link": "Shop the Collection",
-              "link": ""
-            }
-          },
-          "1579159493351": {
-            "type": "collection_item",
-            "settings": {
-              "title": "Bracelets",
-              "sub_title": "",
-              "title_link": "Shop the Collection",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "1579159366060-0",
-          "1579159366060-1",
-          "1579159366060-2",
-          "1579159366060-3",
-          "1579159488318",
-          "1579159493351"
-        ],
-        "settings": {
-          "enable": true,
-          "style_layout": "layout_2",
-          "collection_layout": "carousel",
-          "collection_results_per_row": "5",
-          "widget_title": "Featured Collections",
-          "custom_color": false,
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0,
-          "back_section": "#e2e4e8",
-          "color_title": "#2e3031",
-          "background_section": "#ffffff",
-          "color_title_items": "#282828",
-          "color_sub_title_items": "#969696",
-          "color_link_items": "#8b714a",
-          "border_hover_link_items": "#cabfb0",
-          "color_title_view_all": "#2e3031",
-          "border_color_title_view_all": "#c6c6c6",
-          "background_hover_view_all": "#2e3031",
-          "color_hover_view_all": "#ffffff",
-          "title_view_all_cl": "View All The Collections",
-          "link_view_all_col": ""
-        }
-      },
-      "1579164738978": {
-        "type": "slideshow",
-        "blocks": {
-          "1579165537764": {
-            "type": "video",
-            "settings": {
-              "video_link": "",
-              "video_mp4_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0286\/1239\/5148\/files\/halo-video.mp4?v=1579165799",
-              "alignment": "middle",
-              "sub_heading": "LookBook",
-              "heading": "Milancelos",
-              "slide-des": "Detiam in sapien odio senenatis leo maecenas nor de lorem cosmopolis quam odio.",
-              "button_slide": "Shop The Look",
-              "link": ""
-            }
-          },
-          "1579164738978-0": {
-            "type": "image",
-            "settings": {
-              "alignment": "right",
-              "sub_heading": "LookBook",
-              "heading": "Milancelos",
-              "slide-des": "Detiam in sapien odio senenatis leo de lorem cosmopolis quam odio.",
-              "button_slide": "Shop The Look",
-              "link": "",
-              "product_1": "copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos-1",
-              "coordinates_x_1": 27,
-              "coordinates_y_1": 33,
-              "product_2": "mauris-de-damet-porttitor-mante-le-cosmo-dametos",
-              "coordinates_x_2": 21,
-              "coordinates_y_2": 54,
-              "product_3": "mauris-cosmopolis-porttitor-a-lacos-dametos",
-              "coordinates_x_3": 37,
-              "coordinates_y_3": 73,
-              "product_4": "",
-              "coordinates_x_4": 37,
-              "coordinates_y_4": 84
-            }
-          }
-        },
-        "block_order": [
-          "1579165537764",
-          "1579164738978-0"
-        ],
-        "settings": {
-          "layout": "full",
-          "slide_height": "adapt",
-          "text_size": "large",
-          "show_arrows": true,
-          "show_arrows_below": false,
-          "show_dots": true,
-          "show_fadein": true,
-          "show_image_parallax": false,
-          "autoplay": false,
-          "show_button_mb": false,
-          "show_content_bottom": true,
-          "video_height": "44.2%",
-          "autorotate_speed": 5,
-          "custom_color": false,
-          "color_sub_heading": "",
-          "color_heading": "",
-          "color_text": "",
-          "color_button_text": "",
-          "color_button_border": "",
-          "color_button_bg": "",
-          "color_button_text_hover": "",
-          "color_button_border_hover": "",
-          "color_button_bg_hover": "",
-          "color_arrow": "",
-          "color_arrow_border": "",
-          "color_dot": "",
-          "color_dot_border": ""
-        }
-      },
-      "1579168242940": {
-        "type": "home-brands",
-        "blocks": {
-          "1579168242940-0": {
-            "type": "image",
-            "settings": {
-              "link": ""
-            }
-          },
-          "1579168242940-1": {
-            "type": "image",
-            "settings": {
-              "link": ""
-            }
-          },
-          "1579168242940-2": {
-            "type": "image",
-            "settings": {
-              "link": ""
-            }
-          },
-          "1579168242940-3": {
-            "type": "image",
-            "settings": {
-              "link": ""
-            }
-          },
-          "1579168242940-4": {
-            "type": "image",
-            "settings": {
-              "link": ""
-            }
-          },
-          "1579168242940-5": {
-            "type": "image",
-            "settings": {
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "1579168242940-0",
-          "1579168242940-1",
-          "1579168242940-2",
-          "1579168242940-3",
-          "1579168242940-4",
-          "1579168242940-5"
-        ],
-        "settings": {
-          "custom_color": false,
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0,
-          "brand_title_color": "#34313a",
-          "brand_title": "Top Brands",
-          "brand_rows": "5"
-        }
-      },
-      "1580698680054": {
-        "type": "home-featured-blog",
-        "blocks": {
-          "1580700069922": {
-            "type": "featured_article_home",
-            "settings": {
-              "featured_article": "blog\/commodo-de-quis-magna-rutrum-delos-placerat-interdus"
-            }
-          },
-          "1580718403310": {
-            "type": "featured_article_home",
-            "settings": {
-              "featured_article": "blog\/loremous-de-comodous-trending-now"
-            }
-          },
-          "1580718418804": {
-            "type": "featured_article_home",
-            "settings": {
-              "featured_article": "blog\/saliquam-mollis-accumsan-mios-delites-hendreritus"
-            }
-          }
-        },
-        "block_order": [
-          "1580700069922",
-          "1580718403310",
-          "1580718418804"
-        ],
-        "settings": {
-          "layout": "full",
-          "title": "From Our Blog",
-          "title_button": "View All Articles",
-          "blog_show_date": true,
-          "blog_show_author": true,
-          "custom_color": false,
-          "back_section": "",
-          "color_heading_section": "",
-          "color_article_title": "",
-          "color_date_author": "",
-          "color_excerpt": "",
-          "color_btn": "",
-          "back_button": "",
-          "color_button_hover": "",
-          "back_button_hover": "",
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0
-        }
-      },
       "faq-page": {
         "type": "faq-page",
         "blocks": {
@@ -2078,52 +1520,6 @@
           "logo_text_size_mb": "12px",
           "max_height_logo_pc": "48px",
           "max_height_logo_mb": "30px"
-        }
-      },
-      "1582709184921": {
-        "type": "home-section-products",
-        "settings": {
-          "title": "New Products",
-          "title_view_all": "Shop More",
-          "link_view_all": "",
-          "collection": "new-products",
-          "collection_layout_style": "style_1",
-          "collection_layout": "carousel",
-          "column": 5,
-          "rows": 6,
-          "carousel-arrows": true,
-          "carousel-dots": false,
-          "custom-color": false,
-          "background_section": "",
-          "color_heading_custom": "",
-          "border_layout": "",
-          "back_view_all": "",
-          "color_view_all": "",
-          "padding-top": 30,
-          "padding-bottom": 52
-        }
-      },
-      "1582709416643": {
-        "type": "home-section-products",
-        "settings": {
-          "title": "Featured Products",
-          "title_view_all": "Shop More",
-          "link_view_all": "",
-          "collection": "featured-products-1",
-          "collection_layout_style": "style_1",
-          "collection_layout": "carousel",
-          "column": 5,
-          "rows": 6,
-          "carousel-arrows": true,
-          "carousel-dots": false,
-          "custom-color": false,
-          "background_section": "",
-          "color_heading_custom": "",
-          "border_layout": "",
-          "back_view_all": "",
-          "color_view_all": "",
-          "padding-top": 30,
-          "padding-bottom": 52
         }
       },
       "lookbook-content": {
@@ -3037,20 +2433,70 @@
           "display_product_detail_share": true,
           "footer_address_code": ""
         }
+      },
+      "61f1ccc1-f778-437d-afbf-5a54edde1105": {
+        "type": "slideshow",
+        "blocks": {
+          "61f1ccc1-f778-437d-afbf-5a54edde1105-16867471076084c596-0": {
+            "type": "image",
+            "settings": {
+              "alignment": "left",
+              "sub_heading": "",
+              "heading": "",
+              "slide-des": "",
+              "button_slide": "",
+              "link": "",
+              "product_1": "",
+              "coordinates_x_1": 36,
+              "coordinates_y_1": 48,
+              "product_2": "",
+              "coordinates_x_2": 20,
+              "coordinates_y_2": 20,
+              "product_3": "",
+              "coordinates_x_3": 30,
+              "coordinates_y_3": 30,
+              "product_4": "",
+              "coordinates_x_4": 30,
+              "coordinates_y_4": 30
+            }
+          }
+        },
+        "block_order": [
+          "61f1ccc1-f778-437d-afbf-5a54edde1105-16867471076084c596-0"
+        ],
+        "settings": {
+          "layout": "full",
+          "slide_height": "adapt",
+          "text_size": "large",
+          "show_arrows": true,
+          "show_arrows_below": false,
+          "show_dots": true,
+          "show_fadein": true,
+          "show_image_parallax": false,
+          "autoplay": true,
+          "show_button_mb": false,
+          "show_content_bottom": false,
+          "video_height": "44.2%",
+          "autorotate_speed": 5,
+          "custom_color": false,
+          "color_sub_heading": "",
+          "color_heading": "",
+          "color_text": "",
+          "color_button_text": "",
+          "color_button_border": "",
+          "color_button_bg": "",
+          "color_button_text_hover": "",
+          "color_button_border_hover": "",
+          "color_button_bg_hover": "",
+          "color_arrow": "",
+          "color_arrow_border": "",
+          "color_dot": "",
+          "color_dot_border": ""
+        }
       }
     },
     "content_for_index": [
-      "1578542087674",
-      "1579156711820",
-      "1579149252057",
-      "1579159366060",
-      "1582709184921",
-      "1579164738978",
-      "1579168242940",
-      "1582709416643",
-      "1580698680054",
-      "1579145124276",
-      "1579057185264"
+      "61f1ccc1-f778-437d-afbf-5a54edde1105"
     ]
   }
 }
