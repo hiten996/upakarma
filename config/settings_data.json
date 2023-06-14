@@ -589,7 +589,7 @@
           "cl_ip": "#ffffff",
           "bd_ip": "#878787",
           "cl_btn": "#b59677",
-          "cl_txt": "#fff",
+          "cl_txt": "#ffffff",
           "bg": "#000000",
           "bg_repeat": "no-repeat",
           "bg_size": "cover",
@@ -2425,17 +2425,17 @@
               "cap_v_pos_mb": 50,
               "cap_h_pos_mb": 39,
               "txt_align_mb": "tl",
-              "cl_overlay": "#000",
+              "cl_overlay": "#000000",
               "cl_opacity": 0,
               "ani_img": "none",
               "ani_txt": "none",
               "bg_content_bl": false,
-              "bg_content_cl": "#fff",
+              "bg_content_cl": "#ffffff",
               "bg_content_op": 50,
               "content_pd": "40px 80px",
               "content_pd_mb": "10px 20px",
               "border_bl": false,
-              "br_color": "#222",
+              "br_color": "#222222",
               "br_style": "solid",
               "br_pd": 20,
               "br_pd_mb": 10
@@ -2456,17 +2456,17 @@
               "cap_v_pos_mb": 50,
               "cap_h_pos_mb": 39,
               "txt_align_mb": "tl",
-              "cl_overlay": "#000",
+              "cl_overlay": "#000000",
               "cl_opacity": 0,
               "ani_img": "none",
               "ani_txt": "none",
               "bg_content_bl": false,
-              "bg_content_cl": "#fff",
+              "bg_content_cl": "#ffffff",
               "bg_content_op": 50,
               "content_pd": "40px 80px",
               "content_pd_mb": "10px 20px",
               "border_bl": false,
-              "br_color": "#222",
+              "br_color": "#222222",
               "br_style": "solid",
               "br_pd": 20,
               "br_pd_mb": 10
@@ -2898,13 +2898,142 @@
           "mg_mb": "",
           "pd_mb": ""
         }
+      },
+      "a26de3a4-ea7c-48dc-b6d4-e4a9e809685c": {
+        "type": "brand_list",
+        "blocks": {
+          "745ee274-7389-426d-95f5-d0d45fe0310c": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/testimonial-ashwagandha.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "a37e52ab-daf4-42dd-ad73-923d60e52d63": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/product-business-of-the-year-award.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "65f27032-f829-4677-8aff-f5082a5af43b": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/inc-42-fast-42-500by500-1.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "998545b6-1cbd-41ae-8b6b-fe274ae90864": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Vogue-Award-Mobile-Banner.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "d774e3cd-75da-4ee8-a1c1-73930e2aa7b1": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/D2C-AWARD-1.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "536cd177-1aed-4f5e-ad14-8dfed49b786e": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/EI.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "0e872cf2-3c88-49a3-955b-bee30d46e2d5": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Shilajitl-500X500-media.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "9d858346-2c74-4bdc-9697-92795eb61715": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/award2.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "54de7abe-66c1-4e32-a324-6b64603d0499": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Vitamin-C-500X500-Creatives.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          },
+          "336665ef-619a-43a3-acc8-9d52486ab674": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/award-white-background.webp",
+              "url": "",
+              "open_link": "_blank"
+            }
+          }
+        },
+        "block_order": [
+          "745ee274-7389-426d-95f5-d0d45fe0310c",
+          "a37e52ab-daf4-42dd-ad73-923d60e52d63",
+          "65f27032-f829-4677-8aff-f5082a5af43b",
+          "998545b6-1cbd-41ae-8b6b-fe274ae90864",
+          "d774e3cd-75da-4ee8-a1c1-73930e2aa7b1",
+          "536cd177-1aed-4f5e-ad14-8dfed49b786e",
+          "0e872cf2-3c88-49a3-955b-bee30d46e2d5",
+          "9d858346-2c74-4bdc-9697-92795eb61715",
+          "54de7abe-66c1-4e32-a324-6b64603d0499",
+          "336665ef-619a-43a3-acc8-9d52486ab674"
+        ],
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "brand_layout": "2",
+          "cat_space": "30",
+          "col": "4",
+          "col_md": "6",
+          "col_mb": "6",
+          "brand_hover": "0",
+          "loop": true,
+          "autoplay": true,
+          "au_time": 4,
+          "au_hover": true,
+          "button": true,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "3",
+          "dot": true,
+          "dot_owl": "2",
+          "dot_color": "3",
+          "layout": "wrap",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
       }
     },
     "content_for_index": [
       "58db03cc-ff7d-4f5a-9d96-90a12e67b6cb",
       "0c617d7f-242b-4d9d-ad1d-973ebf75ba06",
       "a0ea2f5e-48b3-4520-9678-09aa48e5903d",
-      "89245b10-8b5d-4cd5-8711-91529e17995e"
+      "89245b10-8b5d-4cd5-8711-91529e17995e",
+      "a26de3a4-ea7c-48dc-b6d4-e4a9e809685c"
     ]
   },
   "platform_customizations": {
