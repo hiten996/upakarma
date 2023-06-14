@@ -693,8 +693,11 @@
           "1585641835304",
           "1585641843539"
         ],
+        "custom_css": [
+          "nav.nt_navigation.tc.hover_side_up.nav_arrow_false {background: #dbc8aa;}"
+        ],
         "settings": {
-          "height": 110,
+          "height": 100,
           "height_2": 60,
           "arrow": false,
           "border": false,
