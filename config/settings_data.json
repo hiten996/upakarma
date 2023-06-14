@@ -428,7 +428,8 @@
           "1596007070336"
         ],
         "custom_css": [
-          ".row.al_center {justify-content: center;}"
+          ".row.al_center {justify-content: center;}",
+          "p {text-align: center;}"
         ],
         "settings": {
           "height": 20,
