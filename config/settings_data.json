@@ -12,7 +12,7 @@
     "list_collections_layout": "collections_default_grid",
     "category_layouts": "layout_default",
     "product_layout": "pr_layout_default",
-    "footer_layout": "footer_1",
+    "footer_layout": "footer_2",
     "enable_multilang": true,
     "lange_1": "en",
     "lange_2": "de",
@@ -2569,10 +2569,164 @@
           "color_dot": "",
           "color_dot_border": ""
         }
+      },
+      "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f": {
+        "type": "home-custom-block-spotlight",
+        "blocks": {
+          "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-0": {
+            "type": "banner_block",
+            "settings": {
+              "sub_title": "Loremous",
+              "title": "Milancelos A Lanos",
+              "description": "Nullam aliquet vestibulum augue non varius. Cras de congue an elitos. Duis tristique delo sante delos maliquam praesent nurna tellus...",
+              "button": "Shop Now",
+              "link": ""
+            }
+          },
+          "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-1": {
+            "type": "banner_block",
+            "settings": {
+              "sub_title": "Loremous",
+              "title": "Milancelos A Lanos",
+              "description": "Nullam aliquet vestibulum augue non varius. Cras de congue an elitos. Duis tristique delo sante delos maliquam praesent nurna tellus...",
+              "button": "Shop Now",
+              "link": ""
+            }
+          },
+          "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-2": {
+            "type": "banner_block",
+            "settings": {
+              "sub_title": "Loremous",
+              "title": "Milancelos A Lanos",
+              "description": "Nullam aliquet vestibulum augue non varius. Cras de congue an elitos. Duis tristique delo sante delos maliquam praesent nurna tellus...",
+              "button": "Shop Now",
+              "link": ""
+            }
+          },
+          "c1d3e1ab-b1e4-4c27-899c-a6c1046fee66": {
+            "type": "banner_block",
+            "settings": {
+              "sub_title": "Loremous",
+              "title": "Milancelos A Lanos",
+              "description": "Nullam aliquet vestibulum augue non varius. Cras de congue an elitos. Duis tristique delo sante delos maliquam praesent nurna tellus...",
+              "button": "Shop Now",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-0",
+          "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-1",
+          "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f-1686747293913d3bc0-2",
+          "c1d3e1ab-b1e4-4c27-899c-a6c1046fee66"
+        ],
+        "settings": {
+          "widget_title": "Trending Now",
+          "collection_results_per_row": "4",
+          "custom_color": false,
+          "color_section_heading": "",
+          "color_sub_heading": "",
+          "color_heading": "",
+          "border_color_heading": "",
+          "color_text": "",
+          "color_button": "",
+          "color_border_button": "",
+          "color_bg_button": "",
+          "color_button_hover": "",
+          "color_border_button_hover": "",
+          "color_bg_button_hover": "",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0
+        }
+      },
+      "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1": {
+        "type": "home-featured-collections",
+        "blocks": {
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-0": {
+            "type": "collection_item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1a376cf7-075a-4aa5-ad04-6d6161e6ac97.jpg",
+              "title": "Bracelets",
+              "sub_title": "Sale Up to 10% Off",
+              "title_link": "Diamond Rings",
+              "link": ""
+            }
+          },
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-1": {
+            "type": "collection_item",
+            "settings": {
+              "title": "Bracelets",
+              "sub_title": "Sale Up to 10% Off",
+              "title_link": "Diamond Rings",
+              "link": ""
+            }
+          },
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-2": {
+            "type": "collection_item",
+            "settings": {
+              "title": "Bracelets",
+              "sub_title": "Sale Up to 10% Off",
+              "title_link": "Diamond Rings",
+              "link": ""
+            }
+          },
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-3": {
+            "type": "collection_item",
+            "settings": {
+              "title": "Bracelets",
+              "sub_title": "Sale Up to 10% Off",
+              "title_link": "Diamond Rings",
+              "link": ""
+            }
+          },
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-4": {
+            "type": "collection_item",
+            "settings": {
+              "title": "Bracelets",
+              "sub_title": "Sale Up to 10% Off",
+              "title_link": "Diamond Rings",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-0",
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-1",
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-2",
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-3",
+          "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1-16867472785be1ff72-4"
+        ],
+        "settings": {
+          "enable": true,
+          "style_layout": "layout_1",
+          "collection_layout": "grid",
+          "collection_results_per_row": "4",
+          "widget_title": "Featured Collections",
+          "custom_color": false,
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "back_section": "#f8f8f8",
+          "color_title": "#2e3031",
+          "background_section": "#fff",
+          "color_title_items": "#282828",
+          "color_sub_title_items": "#969696",
+          "color_link_items": "#8b714a",
+          "border_hover_link_items": "#cabfb0",
+          "color_title_view_all": "#2e3031",
+          "border_color_title_view_all": "#c6c6c6",
+          "background_hover_view_all": "#2e3031",
+          "color_hover_view_all": "#fff",
+          "title_view_all_cl": "View All The Collections",
+          "link_view_all_col": ""
+        }
       }
     },
     "content_for_index": [
-      "61f1ccc1-f778-437d-afbf-5a54edde1105"
+      "61f1ccc1-f778-437d-afbf-5a54edde1105",
+      "f0b9b1b2-e3a8-4c05-8f81-9e4563eaa88f",
+      "161d9607-bd5e-4951-bfd3-fcb0d8cde5a1"
     ]
   }
 }
