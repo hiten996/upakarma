@@ -3521,6 +3521,37 @@
       "c2251648-0b95-4a8c-aec6-955f0823523d": {
         "type": "slideshow",
         "blocks": {
+          "cf0dba95-7dfe-42d6-b3be-1f7d12de20ca": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/20-g-Shilajit-with-safed-musli-New-Launch-Banner.webp",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none",
+              "bg_content_bl": false,
+              "bg_content_cl": "#fff",
+              "bg_content_op": 50,
+              "content_pd": "40px 80px",
+              "content_pd_mb": "10px 20px",
+              "border_bl": false,
+              "br_color": "#222",
+              "br_style": "solid",
+              "br_pd": 20,
+              "br_pd_mb": 10
+            }
+          },
           "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-0": {
             "type": "img",
             "settings": {
@@ -3551,187 +3582,11 @@
               "br_pd": 20,
               "br_pd_mb": 10
             }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-1": {
-            "type": "hd",
-            "settings": {
-              "title": "Best shopify theme 2020",
-              "color": "#fff",
-              "fw_text": 600,
-              "fs_text": 30,
-              "lh_text": 0,
-              "ls_text": 0,
-              "fs_mb_text": 15,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-2": {
-            "type": "space",
-            "settings": {
-              "sp": 40,
-              "sp_mb": 10
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-3": {
-            "type": "subhd",
-            "settings": {
-              "font": "f__libre",
-              "title": "Elessi v1",
-              "color": "#fff",
-              "fw_text": 400,
-              "fs_text": 14,
-              "lh_text": 0,
-              "ls_text": 0,
-              "fs_mb_text": 14,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0,
-              "hide": false
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-4": {
-            "type": "space",
-            "settings": {
-              "sp": 40,
-              "sp_mb": 10
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-5": {
-            "type": "btn",
-            "settings": {
-              "title": "Shop Now",
-              "btn_link": "",
-              "title2": "Shop Now",
-              "btn_link2": "",
-              "btn_icon": false,
-              "cl_txt": "#fff",
-              "cl_bg": "#222",
-              "cl_bd": "#222",
-              "fs_text": 14,
-              "fw_text": 600,
-              "h": 40,
-              "ls_text": 0,
-              "bdr": 0,
-              "pd": 15,
-              "fs_mb_text": 14,
-              "h_mb": 40,
-              "ls_mb_text": 0,
-              "bdr_mb": 0,
-              "pd_mb": 15
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-6": {
-            "type": "img",
-            "settings": {
-              "pos_img": "center center",
-              "cl_img": "",
-              "link_img1": "",
-              "open_link": "_blank",
-              "caption_w": "2",
-              "cap_v_pos": 50,
-              "cap_h_pos": 39,
-              "txt_align": "tl_md",
-              "cap_v_pos_mb": 50,
-              "cap_h_pos_mb": 39,
-              "txt_align_mb": "tl",
-              "cl_overlay": "#000",
-              "cl_opacity": 0,
-              "ani_img": "none",
-              "ani_txt": "none",
-              "bg_content_bl": false,
-              "bg_content_cl": "#fff",
-              "bg_content_op": 50,
-              "content_pd": "40px 80px",
-              "content_pd_mb": "10px 20px",
-              "border_bl": false,
-              "br_color": "#222",
-              "br_style": "solid",
-              "br_pd": 20,
-              "br_pd_mb": 10
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-7": {
-            "type": "hd",
-            "settings": {
-              "title": "Best shopify theme 2020",
-              "color": "#fff",
-              "fw_text": 600,
-              "fs_text": 30,
-              "lh_text": 0,
-              "ls_text": 0,
-              "fs_mb_text": 15,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-8": {
-            "type": "space",
-            "settings": {
-              "sp": 40,
-              "sp_mb": 10
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-9": {
-            "type": "subhd",
-            "settings": {
-              "font": "f__libre",
-              "title": "Elessi v1",
-              "color": "#fff",
-              "fw_text": 400,
-              "fs_text": 14,
-              "lh_text": 0,
-              "ls_text": 0,
-              "fs_mb_text": 14,
-              "lh_mb_text": 0,
-              "ls_mb_text": 0,
-              "hide": false
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-10": {
-            "type": "space",
-            "settings": {
-              "sp": 40,
-              "sp_mb": 10
-            }
-          },
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-11": {
-            "type": "btn",
-            "settings": {
-              "title": "Shop Now",
-              "btn_link": "",
-              "title2": "Shop Now",
-              "btn_link2": "",
-              "btn_icon": false,
-              "cl_txt": "#fff",
-              "cl_bg": "#222",
-              "cl_bd": "#222",
-              "fs_text": 14,
-              "fw_text": 600,
-              "h": 40,
-              "ls_text": 0,
-              "bdr": 0,
-              "pd": 15,
-              "fs_mb_text": 14,
-              "h_mb": 40,
-              "ls_mb_text": 0,
-              "bdr_mb": 0,
-              "pd_mb": 15
-            }
           }
         },
         "block_order": [
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-0",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-1",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-2",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-3",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-4",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-5",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-6",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-7",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-8",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-9",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-10",
-          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-11"
+          "cf0dba95-7dfe-42d6-b3be-1f7d12de20ca",
+          "c2251648-0b95-4a8c-aec6-955f0823523d-168674871439de0fc9-0"
         ],
         "settings": {
           "se_height": "adapt",
@@ -3741,7 +3596,7 @@
           "h_mb": "350px",
           "effect": "1",
           "loop": true,
-          "autoplay": false,
+          "autoplay": true,
           "au_time": 6,
           "au_hover": true,
           "button": false,
