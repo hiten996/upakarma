@@ -255,7 +255,7 @@
     "postion_abs_hd_hp": true,
     "color_bg_header_middle_2_hp": "rgba(0,0,0,0)",
     "color_nav_2_hp": "#323232",
-    "color_text_hp": "#fff",
+    "color_text_hp": "#323232",
     "color_bg_announcement_bar_2": "#f2e3ca",
     "color_announcement_bar_2": "#44311c",
     "color_bg_header_middle_2": "#ffffff",
@@ -479,11 +479,11 @@
         "type": "header",
         "settings": {
           "message": true,
-          "message_text": "Limited-Time Offers: Mid-Season Sale Up To 70% Off",
+          "message_text": "☀️Summer☀️Sale is Live Now",
           "message_link": "",
           "header_middle": true,
           "enable_free_shopping": true,
-          "free_shipping_text": "FREE SHIPPING* <br>No Minimum purchase",
+          "free_shipping_text": "",
           "enable_header_search": true,
           "enable_header_account": true,
           "enable_header_wishlist": true,
@@ -494,7 +494,8 @@
           "logo_text_size_mb": "20px",
           "logo_pc": "shopify:\/\/shop_images\/Upakarma-Logo.webp",
           "max_height_logo_pc": "100px",
-          "max_height_logo_mb": "25px"
+          "logo": "shopify:\/\/shop_images\/Upakarma-Logo.webp",
+          "max_height_logo_mb": "40px"
         }
       },
       "footer": {
