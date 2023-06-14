@@ -712,7 +712,7 @@
           "height": 100,
           "height_2": 60,
           "arrow": false,
-          "border": true,
+          "border": false,
           "color": "#000000",
           "source": "2",
           "txt": "<span class=\"sub-title\" style=\"color: #222\">Premium luxury fashion destination<\/span>",
