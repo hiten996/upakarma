@@ -483,11 +483,70 @@
               "lazy_mn": true,
               "pos": "right"
             }
+          },
+          "902f65f1-e713-4aab-8ded-100a2d65f4bd": {
+            "type": "dropdown",
+            "settings": {
+              "title": "SHOP",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos": "right"
+            }
+          },
+          "419ca7a9-f483-46a4-9806-f5e5453f9fba": {
+            "type": "simple",
+            "settings": {
+              "title": "COMBO PACK",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "afbd9ba4-9517-4267-afae-a77c2ca1290a": {
+            "type": "simple",
+            "settings": {
+              "title": "BLOG",
+              "url": "shopify:\/\/blogs\/news",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "204aedd0-c913-4006-9c48-19f16a86941e": {
+            "type": "simple",
+            "settings": {
+              "title": "NEW LAUNCHES",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
           }
         },
         "block_order": [
           "4ae5fc93-7f2c-4d6d-95e7-e38ce0aeba63",
-          "081e6bf0-58eb-4471-8c95-78409cce0d07"
+          "081e6bf0-58eb-4471-8c95-78409cce0d07",
+          "902f65f1-e713-4aab-8ded-100a2d65f4bd",
+          "419ca7a9-f483-46a4-9806-f5e5453f9fba",
+          "afbd9ba4-9517-4267-afae-a77c2ca1290a",
+          "204aedd0-c913-4006-9c48-19f16a86941e"
         ],
         "custom_css": [
           "nav.nt_navigation.tc.hover_side_up.nav_arrow_false {background: #dbc8aa;}",
