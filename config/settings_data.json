@@ -91,6 +91,7 @@
     "cart_des": "4",
     "bg_hc": "#623400",
     "cl_hc": "#ffffff",
+    "dark_cl2": "#b9a16b",
     "btnt4_style": "1",
     "cl_bd_text": "#999999",
     "color_primary": "#b59677",
@@ -464,7 +465,7 @@
               "cus_cl": false,
               "cl": "#ec0101",
               "lb": "",
-              "lb_cl": ""
+              "lb_cl": "#000"
             }
           },
           "081e6bf0-58eb-4471-8c95-78409cce0d07": {
