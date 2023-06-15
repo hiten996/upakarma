@@ -2546,7 +2546,7 @@
           "dot": true,
           "dot_owl": "3",
           "dot_color": "2",
-          "layout": "container",
+          "layout": "nt_full",
           "cl_bg": "",
           "mg": ",,50px,",
           "pd": "",
