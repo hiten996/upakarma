@@ -9,7 +9,7 @@
   assign url_seir = '/?section_id=' |append:section.id -%}
 <nav class="nt_navigation {{section.settings.align}} {{section.settings.hover}} nav_arrow_{{section.settings.arrow}}"> 
    <ul id="nt_menu_id" class="nt_menu in_flex wrap al_center">
-      <img nitro-lazy-src="https://cdn.shopify.com/s/files/1/0772/2188/8322/files/favicon.png?v=1686805091">
+      <img src="https://cdn.shopify.com/s/files/1/0772/2188/8322/files/favicon.png">
    {%- for type in tp_blocks -%}
      
       {%- assign arrTyCurent = blocktp |remove:'t4,' | split:',' | where:type -%}
