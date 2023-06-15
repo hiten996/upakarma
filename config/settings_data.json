@@ -474,7 +474,7 @@
             "type": "dropdown",
             "settings": {
               "title": "ABOUT US",
-              "url": "",
+              "url": "shopify:\/\/pages\/about-us",
               "open_link": "_self",
               "menu": "about-us",
               "icon": "",
