@@ -2076,11 +2076,14 @@
         "block_order": [
           "pages_heading-0"
         ],
+        "custom_css": [
+          ".parallax-inner.nt_parallax_false.nt_bg_lz.pa.t__0.l__0.r__0.b__0.lazyloadt4sed {display: none;}"
+        ],
         "settings": {
           "image": "shopify:\/\/shop_images\/sourcing-1400x438.webp",
           "parallax": false,
           "color": "#000000",
-          "overlay": 54,
+          "overlay": 0,
           "padding": 50,
           "paddingmb": 50,
           "bg_pos": "center center",
