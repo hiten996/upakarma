@@ -175,7 +175,7 @@
     "shop_layout": "default",
     "shop_des": "default",
     "cat_des": "1",
-    "shop_sidebar": "none",
+    "shop_sidebar": "left",
     "shop_size_sidebar": "2",
     "use_hidden_cat": false,
     "space_sidebar": 30,
@@ -467,7 +467,7 @@
               "cus_cl": false,
               "cl": "#ec0101",
               "lb": "",
-              "lb_cl": "#000"
+              "lb_cl": "#000000"
             }
           },
           "081e6bf0-58eb-4471-8c95-78409cce0d07": {
@@ -1270,12 +1270,12 @@
         ],
         "settings": {
           "shown": true,
-          "image": "",
           "use_specify_image": true,
           "parallax": false,
-          "color": "#000",
+          "color": "#000000",
           "overlay": 54,
           "padding": 50,
+          "paddingmb": 50,
           "bg_pos": "center center",
           "bg_repeat": "no-repeat",
           "bg_size": "cover",
