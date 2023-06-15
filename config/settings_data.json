@@ -551,7 +551,8 @@
         ],
         "custom_css": [
           "nav.nt_navigation.tc.hover_side_up.nav_arrow_false {background: #dbc8aa;}",
-          "a.lh__1.flex.al_center.pr {color: black;}"
+          "a.lh__1.flex.al_center.pr {color: black;}",
+          ".header_width {max-width: none !important;}"
         ],
         "settings": {
           "height": 100,
