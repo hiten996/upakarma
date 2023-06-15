@@ -2077,14 +2077,15 @@
           "pages_heading-0"
         ],
         "settings": {
-          "image": "",
+          "image": "shopify:\/\/shop_images\/sourcing-1400x438.webp",
           "parallax": false,
-          "color": "#000",
+          "color": "#000000",
           "overlay": 54,
           "padding": 50,
+          "paddingmb": 50,
           "bg_pos": "center center",
           "bg_repeat": "no-repeat",
-          "bg_size": "cover",
+          "bg_size": "auto",
           "bg_att": "scroll"
         }
       },
