@@ -2085,7 +2085,7 @@
           "paddingmb": 50,
           "bg_pos": "center center",
           "bg_repeat": "no-repeat",
-          "bg_size": "auto",
+          "bg_size": "cover",
           "bg_att": "scroll"
         }
       },
