@@ -1575,12 +1575,6 @@
               "title": "Description"
             }
           },
-          "pr_description-1": {
-            "type": "add",
-            "settings": {
-              "title": "Additional Information"
-            }
-          },
           "1585724379549": {
             "type": "html",
             "settings": {
@@ -1597,7 +1591,6 @@
         },
         "block_order": [
           "pr_description-0",
-          "pr_description-1",
           "1585724379549",
           "pr_description-2"
         ],
