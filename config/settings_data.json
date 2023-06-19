@@ -1585,7 +1585,7 @@
             "type": "html",
             "settings": {
               "title": "Custom tab",
-              "page": ""
+              "page": "contact-us"
             }
           },
           "pr_description-2": {
@@ -1605,7 +1605,7 @@
           "show": true,
           "bgcl": "#f6f6f8",
           "bgclmb": "#ffffff",
-          "des_w": "3",
+          "des_w": "2",
           "des_mb": "2",
           "auto": false,
           "mg": "30px,,30px,",
