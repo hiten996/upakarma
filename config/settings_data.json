@@ -1575,13 +1575,6 @@
               "title": "Description"
             }
           },
-          "1585724379549": {
-            "type": "html",
-            "settings": {
-              "title": "Custom tab",
-              "page": "contact-us"
-            }
-          },
           "pr_description-2": {
             "type": "rivui",
             "settings": {
@@ -1591,7 +1584,6 @@
         },
         "block_order": [
           "pr_description-0",
-          "1585724379549",
           "pr_description-2"
         ],
         "settings": {
