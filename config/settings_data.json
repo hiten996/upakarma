@@ -719,25 +719,28 @@
           "1581507860120": {
             "type": "copy",
             "settings": {
-              "text": "Copyright © [year] <span class=\"cp\">gecko<\/span> all rights reserved. Powered by <a href=\"https:\/\/the4.co\">The4<\/a>"
+              "text": "Copyright © 2023 UPAKARMA AYURVEDA. All rights reserved"
             }
           },
-          "1581507855652": {
-            "type": "menu",
+          "e383385d-a3f4-4bda-b793-0569d5a302e7": {
+            "type": "payment",
             "settings": {
-              "menu": "footer"
+              "source": "1",
+              "image": "shopify:\/\/shop_images\/2020-12-22.png",
+              "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,klarna,klarna-pay-later,litecoin,maestro,master,paypal,shopify_pay,sofort,visa",
+              "height": 30
             }
           }
         },
         "block_order": [
           "1581507860120",
-          "1581507855652"
+          "e383385d-a3f4-4bda-b793-0569d5a302e7"
         ],
         "settings": {
           "layout": "6",
-          "bg": "#222222",
-          "cl": "#ffffff",
-          "cl_a": "#ffffff",
+          "bg": "#f2d6ab",
+          "cl": "#786a56",
+          "cl_a": "#786a56",
           "cl_hover": "#b59677"
         }
       },
