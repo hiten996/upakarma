@@ -624,8 +624,20 @@
       "footer_top": {
         "type": "footer_top",
         "blocks": {
+          "c03af21b-58e0-47cc-8b8a-71a5d4513005": {
+            "type": "html",
+            "settings": {
+              "title": "MANKIND GROUP COMPANY",
+              "content": "<img width=\"350\" height=\"210\" alt=\"Mankind Logo\" style=\"max-width:100%;height:auto;\" title=\"MANKIND GROUP COMPANY\" nitro-lazy-src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\" class=\"image wp-image-613930 mankind attachment-full size-full ls-is-cached lazyloaded\" decoding=\"async\" nitro-lazy-empty=\"\" id=\"MzIwMTo0NTM=-1\" src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\">",
+              "order": "1",
+              "cl": "3",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          },
           "1581507819652": {
             "type": "logo",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Mankind-Logo-1_2373a3b0-3eff-4ef6-89c0-988a712586a9.png",
               "logo_width": 350,
@@ -641,10 +653,10 @@
           "1581507824602": {
             "type": "menu",
             "settings": {
-              "title": "CATEGORIES",
+              "title": "OUR BEST SELLERS",
               "menu": "",
               "order": "1",
-              "cl": "2",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
@@ -652,31 +664,32 @@
           "1581507828337": {
             "type": "menu",
             "settings": {
-              "title": "INFOMATION",
+              "title": "CUSTOMER SERVICES",
               "menu": "",
               "order": "1",
-              "cl": "2",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
           },
-          "1581507840818": {
-            "type": "menu",
+          "94dbce6d-d33c-4c11-931b-d27655734b64": {
+            "type": "html",
             "settings": {
-              "title": "USEFUL LINKS",
-              "menu": "",
+              "title": "AWARDED",
+              "content": "<img width=\"310\" height=\"313\" alt=\"Upakarma Awards\" style=\"max-width:100%;height:auto;\" title=\"Awarded\" sizes=\"(max-width: 310px) 100vw, 310px\" nitro-lazy-srcset=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Awards-Footer-2022-2.png 310w, https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Awards-Footer-2022-2-100x100.png 100w\" nitro-lazy-src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Awards-Footer-2022-2.png\" class=\"image wp-image-613785 award_img attachment-full size-full lazyloaded\" decoding=\"async\" nitro-lazy-empty=\"\" id=\"MzIyMjo2NTI=-1\" src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Awards-Footer-2022-2.png\" srcset=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Awards-Footer-2022-2.png 310w, https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Awards-Footer-2022-2-100x100.png 100w\">",
               "order": "1",
-              "cl": "2",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
           }
         },
         "block_order": [
+          "c03af21b-58e0-47cc-8b8a-71a5d4513005",
           "1581507819652",
           "1581507824602",
           "1581507828337",
-          "1581507840818"
+          "94dbce6d-d33c-4c11-931b-d27655734b64"
         ],
         "settings": {
           "sticky": false,
