@@ -736,6 +736,9 @@
           "1581507860120",
           "e383385d-a3f4-4bda-b793-0569d5a302e7"
         ],
+        "custom_css": [
+
+        ],
         "settings": {
           "layout": "6",
           "bg": "#f2d6ab",
@@ -3558,7 +3561,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".page-head.tc.pr.oh.page_head_wis_heading {display: none;}"
+      ".page-head.tc.pr.oh.page_head_wis_heading {display: none;}",
+      ".footer__bot_wrap.pt__20.pb__20 {border-top: 2px solid;}"
     ]
   }
 }
