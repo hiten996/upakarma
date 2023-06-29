@@ -269,7 +269,7 @@
     "blog_layout": "default",
     "blog_sidebar": "right",
     "blog_size_sidebar": "2",
-    "blog_h": false,
+    "blog_h": true,
     "blog_slider": true,
     "lr_enable": true,
     "use_privacy_policy": true,
@@ -1881,11 +1881,11 @@
         ],
         "settings": {
           "shown": true,
-          "image": "",
           "parallax": false,
-          "color": "#000",
+          "color": "#000000",
           "overlay": 54,
           "padding": 50,
+          "paddingmb": 50,
           "bg_pos": "center center",
           "bg_repeat": "no-repeat",
           "bg_size": "cover",
@@ -1949,9 +1949,9 @@
           "cl2": "#878787",
           "bg": "#000000",
           "overlay": 80,
-          "use_eq_height": true,
-          "image_ratio": "ratio4_3",
-          "image_size": "nt_cover",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_contain",
           "image_position": "8",
           "layout": "nt_full"
         }
@@ -3544,6 +3544,66 @@
           "pd": "",
           "mg_mb": "",
           "pd_mb": ""
+        }
+      },
+      "article-sidebar": {
+        "type": "article-sidebar",
+        "blocks": {
+          "article-sidebar-0": {
+            "type": "category",
+            "settings": {
+              "title": "Blog Categories",
+              "cat_link_list": "",
+              "count": true
+            }
+          },
+          "article-sidebar-1": {
+            "type": "post",
+            "settings": {
+              "title": "Recent Post",
+              "blog": "",
+              "date": "date",
+              "limit": 3
+            }
+          },
+          "article-sidebar-2": {
+            "type": "instagram",
+            "settings": {
+              "title": "Instagram",
+              "acc2": "",
+              "limit": 9,
+              "open_link": "_blank",
+              "space": "2",
+              "rounded_ins": "0",
+              "col_pr": "4",
+              "col_pr_tb": "4",
+              "col_pr_mb": "4"
+            }
+          },
+          "article-sidebar-3": {
+            "type": "collection",
+            "settings": {
+              "title": "Sale Products",
+              "collection": "",
+              "limit": 3
+            }
+          },
+          "article-sidebar-4": {
+            "type": "tags",
+            "settings": {
+              "title": "Blog Tags",
+              "count": true
+            }
+          }
+        },
+        "block_order": [
+          "article-sidebar-0",
+          "article-sidebar-1",
+          "article-sidebar-2",
+          "article-sidebar-3",
+          "article-sidebar-4"
+        ],
+        "settings": {
         }
       }
     },
