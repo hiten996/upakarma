@@ -1917,8 +1917,8 @@
           "overlay": 90,
           "des_cnt": "1",
           "use_eq_height": true,
-          "image_ratio": "ratio4_3",
-          "image_size": "nt_cover",
+          "image_ratio": "ratio16_9",
+          "image_size": "nt_contain",
           "image_position": "8",
           "source": "0",
           "count": true
@@ -3549,59 +3549,46 @@
       "article-sidebar": {
         "type": "article-sidebar",
         "blocks": {
+          "article-sidebar-1": {
+            "type": "post",
+            "settings": {
+              "title": "Popular Post",
+              "blog": "news",
+              "date": "date",
+              "limit": 1
+            }
+          },
           "article-sidebar-0": {
             "type": "category",
             "settings": {
-              "title": "Blog Categories",
+              "title": "Categories",
               "cat_link_list": "",
               "count": true
             }
           },
-          "article-sidebar-1": {
+          "79394050-e33a-4fdf-b4d6-4658a3f9743b": {
             "type": "post",
             "settings": {
-              "title": "Recent Post",
-              "blog": "",
+              "title": "Latest Posts",
+              "blog": "news",
               "date": "date",
               "limit": 3
-            }
-          },
-          "article-sidebar-2": {
-            "type": "instagram",
-            "settings": {
-              "title": "Instagram",
-              "acc2": "",
-              "limit": 9,
-              "open_link": "_blank",
-              "space": "2",
-              "rounded_ins": "0",
-              "col_pr": "4",
-              "col_pr_tb": "4",
-              "col_pr_mb": "4"
             }
           },
           "article-sidebar-3": {
             "type": "collection",
             "settings": {
-              "title": "Sale Products",
-              "collection": "",
+              "title": "Products",
+              "collection": "frontpage",
               "limit": 3
-            }
-          },
-          "article-sidebar-4": {
-            "type": "tags",
-            "settings": {
-              "title": "Blog Tags",
-              "count": true
             }
           }
         },
         "block_order": [
-          "article-sidebar-0",
           "article-sidebar-1",
-          "article-sidebar-2",
-          "article-sidebar-3",
-          "article-sidebar-4"
+          "article-sidebar-0",
+          "79394050-e33a-4fdf-b4d6-4658a3f9743b",
+          "article-sidebar-3"
         ],
         "settings": {
         }
