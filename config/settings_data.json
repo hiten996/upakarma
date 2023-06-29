@@ -2459,6 +2459,7 @@
             "type": "img",
             "settings": {
               "image": "shopify:\/\/shop_images\/20-g-Shilajit-with-safed-musli-New-Launch-Banner.webp",
+              "image_mb": "shopify:\/\/shop_images\/20-g-Shilajit-with-safed-musli-New-Launch-Post.webp",
               "pos_img": "center center",
               "cl_img": "",
               "link_img1": "",
@@ -2490,6 +2491,7 @@
             "type": "img",
             "settings": {
               "image": "shopify:\/\/shop_images\/Banner-Web-1-1920x600-1.webp",
+              "image_mb": "shopify:\/\/shop_images\/Banner-mobile-size-500x500-1.webp",
               "pos_img": "center center",
               "cl_img": "",
               "link_img1": "",
@@ -2521,6 +2523,7 @@
             "type": "img",
             "settings": {
               "image": "shopify:\/\/shop_images\/new-product-launch-banner.webp",
+              "image_mb": "shopify:\/\/shop_images\/new-product-launch-banner-mobile-size.webp",
               "pos_img": "center center",
               "cl_img": "",
               "link_img1": "",
@@ -2552,6 +2555,7 @@
             "type": "img",
             "settings": {
               "image": "shopify:\/\/shop_images\/10-g-Shilajit-New-Launch-Banner-1-1.webp",
+              "image_mb": "shopify:\/\/shop_images\/download_6.png",
               "pos_img": "center center",
               "cl_img": "",
               "link_img1": "",
@@ -2583,6 +2587,7 @@
             "type": "img",
             "settings": {
               "image": "shopify:\/\/shop_images\/Awards-Banner.webp",
+              "image_mb": "shopify:\/\/shop_images\/download.jpg",
               "pos_img": "center center",
               "cl_img": "",
               "link_img1": "",
