@@ -487,8 +487,56 @@
               "pos": "right"
             }
           },
+          "6c42bd9b-ac2f-4934-a83a-12dd260b9b31": {
+            "type": "mega",
+            "settings": {
+              "title": "SHOP",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#623400",
+              "lb": "",
+              "lb_cl": "#623400",
+              "lazy_mn": true,
+              "pos": "center",
+              "wid": "cus",
+              "cus_wid": 500
+            }
+          },
+          "3947557e-85cb-44db-9dd4-5d02b003c43f": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "BEST SELLER",
+              "url": "",
+              "open_link": "_self",
+              "menu": "main-menu",
+              "col": "4"
+            }
+          },
+          "de6f5f31-85ab-40f3-8519-80ca04af1e40": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "SHOP BY PRODUCTS",
+              "url": "",
+              "open_link": "_self",
+              "menu": "main-menu",
+              "col": "4"
+            }
+          },
+          "2994de4e-fda0-40f1-96c8-1e7c71376d5a": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "SHOP BY CONCERN",
+              "url": "",
+              "open_link": "_self",
+              "menu": "main-menu",
+              "col": "4"
+            }
+          },
           "902f65f1-e713-4aab-8ded-100a2d65f4bd": {
             "type": "dropdown",
+            "disabled": true,
             "settings": {
               "title": "SHOP",
               "url": "",
@@ -546,6 +594,10 @@
         "block_order": [
           "4ae5fc93-7f2c-4d6d-95e7-e38ce0aeba63",
           "081e6bf0-58eb-4471-8c95-78409cce0d07",
+          "6c42bd9b-ac2f-4934-a83a-12dd260b9b31",
+          "3947557e-85cb-44db-9dd4-5d02b003c43f",
+          "de6f5f31-85ab-40f3-8519-80ca04af1e40",
+          "2994de4e-fda0-40f1-96c8-1e7c71376d5a",
           "902f65f1-e713-4aab-8ded-100a2d65f4bd",
           "419ca7a9-f483-46a4-9806-f5e5453f9fba",
           "afbd9ba4-9517-4267-afae-a77c2ca1290a",
