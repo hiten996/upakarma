@@ -267,7 +267,7 @@
     "show_search_suggest": true,
     "search_prs_suggest": "",
     "blog_layout": "default",
-    "blog_sidebar": "none",
+    "blog_sidebar": "right",
     "blog_size_sidebar": "2",
     "blog_h": false,
     "blog_slider": true,
@@ -630,7 +630,7 @@
               "title": "MANKIND GROUP COMPANY",
               "content": "<img width=\"350\" height=\"210\" alt=\"Mankind Logo\" style=\"max-width:100%;height:auto;\" title=\"MANKIND GROUP COMPANY\" nitro-lazy-src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\" class=\"image wp-image-613930 mankind attachment-full size-full ls-is-cached lazyloaded\" decoding=\"async\" nitro-lazy-empty=\"\" id=\"MzIwMTo0NTM=-1\" src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\">",
               "order": "1",
-              "cl": "4",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
@@ -656,7 +656,7 @@
               "title": "OUR BEST SELLERS",
               "menu": "",
               "order": "1",
-              "cl": "15",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
@@ -665,9 +665,9 @@
             "type": "menu",
             "settings": {
               "title": "CUSTOMER SERVICES",
-              "menu": "footer",
+              "menu": "",
               "order": "1",
-              "cl": "15",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
@@ -1928,7 +1928,7 @@
         "type": "blog-slider",
         "settings": {
           "blog": "",
-          "limit": 5,
+          "limit": 6,
           "date": "date",
           "col_pr": "4",
           "col_pr_tb": "4",
@@ -1949,11 +1949,11 @@
           "cl2": "#878787",
           "bg": "#000000",
           "overlay": 80,
-          "use_eq_height": false,
-          "image_ratio": "ratio_nt",
-          "image_size": "nt_contain",
+          "use_eq_height": true,
+          "image_ratio": "ratio4_3",
+          "image_size": "nt_cover",
           "image_position": "8",
-          "layout": "container"
+          "layout": "nt_full"
         }
       },
       "bptf-heading": {
