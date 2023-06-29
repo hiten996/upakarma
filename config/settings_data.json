@@ -665,7 +665,7 @@
             "type": "menu",
             "settings": {
               "title": "CUSTOMER SERVICES",
-              "menu": "",
+              "menu": "footer",
               "order": "1",
               "cl": "3",
               "cl_tb": "6",
