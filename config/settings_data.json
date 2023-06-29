@@ -1896,7 +1896,7 @@
         "type": "blog-template",
         "settings": {
           "shop_des": "default",
-          "art_des": "1",
+          "art_des": "2 tc",
           "limit": 5,
           "space": 40,
           "use_pagination": "default",
@@ -1911,7 +1911,7 @@
           "show_dt": true,
           "show_cm": false,
           "show_tg": true,
-          "cl": "#ffffff",
+          "cl": "#623400",
           "cl2": "#878787",
           "bg": "#000000",
           "overlay": 90,
