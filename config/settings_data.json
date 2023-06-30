@@ -3720,7 +3720,7 @@
             "type": "simple",
             "settings": {
               "title": "COMBO PACK",
-              "url": "shopify:\/\/collections\/all",
+              "url": "shopify:\/\/collections\/effervescent",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
