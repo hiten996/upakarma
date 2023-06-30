@@ -3879,6 +3879,58 @@
               "menu": "shop-by-concern",
               "col": "6"
             }
+          },
+          "c183b8f1-52bc-4353-b9e6-7d80d43f9c33": {
+            "type": "simple",
+            "settings": {
+              "title": "COMBO PACK",
+              "url": "shopify:\/\/collections\/all",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "65e1a964-990e-4ae1-9c58-87dd407125c2": {
+            "type": "simple",
+            "settings": {
+              "title": "MEDIA",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "ec5da9cc-ea9a-4e16-910a-f5614abe61ae": {
+            "type": "simple",
+            "settings": {
+              "title": "BLOG",
+              "url": "shopify:\/\/blogs\/news",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "06296b1a-43ba-4e67-8c33-db80b6b18990": {
+            "type": "simple",
+            "settings": {
+              "title": "NEW LAUNCHES",
+              "url": "shopify:\/\/collections\/all",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
           }
         },
         "block_order": [
@@ -3887,7 +3939,11 @@
           "3769957d-23df-4d2f-89ff-d8bb929ebffc",
           "8a4c626f-5099-4385-be0e-f3a37075e19c",
           "a583f569-3317-4ab3-baf6-e2a24404704b",
-          "7163da5d-1d72-4219-93e5-86b110b366d0"
+          "7163da5d-1d72-4219-93e5-86b110b366d0",
+          "c183b8f1-52bc-4353-b9e6-7d80d43f9c33",
+          "65e1a964-990e-4ae1-9c58-87dd407125c2",
+          "ec5da9cc-ea9a-4e16-910a-f5614abe61ae",
+          "06296b1a-43ba-4e67-8c33-db80b6b18990"
         ],
         "settings": {
           "height": 92,
