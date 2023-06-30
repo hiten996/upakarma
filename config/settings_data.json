@@ -3787,6 +3787,73 @@
           "bg_size": "cover",
           "bg_att": "scroll"
         }
+      },
+      "faq_heading": {
+        "type": "faq_heading",
+        "blocks": {
+          "faq_heading-0": {
+            "type": "1",
+            "disabled": true,
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "faq_heading-0"
+        ],
+        "settings": {
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "paddingmb": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "auto",
+          "bg_att": "scroll"
+        }
+      },
+      "faqs": {
+        "type": "faqs",
+        "blocks": {
+          "faqs-0": {
+            "type": "faq",
+            "settings": {
+              "title": "Q:1 How do I place my order?",
+              "content": "<p>Ans: Step 1: Click on the Category of your choice.<br\/>Step 2: Click on ADD TO CART.<br\/>Step 3: Click on BUY NOW.<br\/>Step 4: Click on CHECKOUT where you must complete the details of your order and place your order successfully.<br\/>If you have any further questions, you can call our helpdesk at 011-40691456 or chat with us using the Live chat at the bottom of your screen.<\/p>"
+            }
+          },
+          "faqs-1": {
+            "type": "faq",
+            "settings": {
+              "title": "Lorem ipsum dolor sit amet",
+              "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed eros congue, eleifend ipsum vitae, cursus massa. Vivamus imperdiet luctus lorem. <\/p>"
+            }
+          },
+          "faqs-2": {
+            "type": "faq",
+            "settings": {
+              "title": "Lorem ipsum dolor sit amet",
+              "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed eros congue, eleifend ipsum vitae, cursus massa. Vivamus imperdiet luctus lorem. <\/p>"
+            }
+          },
+          "faqs-3": {
+            "type": "faq",
+            "settings": {
+              "title": "Lorem ipsum dolor sit amet",
+              "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed eros congue, eleifend ipsum vitae, cursus massa. Vivamus imperdiet luctus lorem. <\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "faqs-0",
+          "faqs-1",
+          "faqs-2",
+          "faqs-3"
+        ],
+        "settings": {
+          "auto": true
+        }
       }
     },
     "content_for_index": [
