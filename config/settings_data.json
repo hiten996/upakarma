@@ -188,7 +188,7 @@
     "shop_filters": true,
     "pop_style": "pop_default",
     "type_filters": "2",
-    "logic_filter": "2",
+    "logic_filter": "1",
     "auto_hide_ofsock": false,
     "show_hide_ofsock": false,
     "pr_layout": "default",
@@ -2256,6 +2256,7 @@
           },
           "nt_filter2-1": {
             "type": "price",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "title": "By Price"
@@ -2346,6 +2347,7 @@
           },
           "1596437378525": {
             "type": "type",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2375,6 +2377,7 @@
         "blocks": {
           "sidebar_shop2-0": {
             "type": "title",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "title": "By Title"
@@ -2382,6 +2385,7 @@
           },
           "sidebar_shop2-1": {
             "type": "price",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "title": "By Price"
@@ -2389,6 +2393,7 @@
           },
           "sidebar_shop2-2": {
             "type": "variants",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2399,6 +2404,7 @@
           },
           "sidebar_shop2-3": {
             "type": "color",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2408,6 +2414,7 @@
           },
           "sidebar_shop2-4": {
             "type": "vendor",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2417,6 +2424,7 @@
           },
           "sidebar_shop2-5": {
             "type": "available",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2425,6 +2433,7 @@
           },
           "1596191009077": {
             "type": "variants",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": false,
@@ -2435,6 +2444,7 @@
           },
           "1596419303044": {
             "type": "tags",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2444,11 +2454,39 @@
           },
           "1596419377121": {
             "type": "tag",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
               "title": "By Tag Color",
               "key": "color",
+              "style": "ck"
+            }
+          },
+          "358df4b8-75c3-46dc-a756-e51403921e31": {
+            "type": "collection",
+            "settings": {
+              "title": "Bestsellers",
+              "collection": "best-selling",
+              "limit": 10
+            }
+          },
+          "3ad08576-094c-416b-b5c4-947d9c35c3e3": {
+            "type": "category",
+            "disabled": true,
+            "settings": {
+              "title": "Product Categories",
+              "cat_source": "2",
+              "cat_link_list": "",
+              "count": false
+            }
+          },
+          "2acb06be-e675-4073-88ec-fa57cad47c0d": {
+            "type": "type",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "By Type",
               "style": "ck"
             }
           }
@@ -2462,7 +2500,10 @@
           "sidebar_shop2-5",
           "1596191009077",
           "1596419303044",
-          "1596419377121"
+          "1596419377121",
+          "358df4b8-75c3-46dc-a756-e51403921e31",
+          "3ad08576-094c-416b-b5c4-947d9c35c3e3",
+          "2acb06be-e675-4073-88ec-fa57cad47c0d"
         ],
         "settings": {
         }
