@@ -326,7 +326,7 @@
     "checkout_header_image": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/Upakarma-Logo.webp",
     "checkout_logo_position": "center",
-    "checkout_logo_size": "small",
+    "checkout_logo_size": "large",
     "checkout_body_background_image": "",
     "checkout_body_background_color": "#fff",
     "checkout_input_background_color_mode": "white",
