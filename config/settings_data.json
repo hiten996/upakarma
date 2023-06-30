@@ -784,6 +784,7 @@
           },
           "cart_widget-2": {
             "type": "agree",
+            "disabled": true,
             "settings": {
             }
           },
