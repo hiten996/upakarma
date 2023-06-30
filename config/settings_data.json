@@ -616,7 +616,7 @@
           "color": "#000000",
           "source": "2",
           "txt": "<span class=\"sub-title\" style=\"color: #222\">Premium luxury fashion destination<\/span>",
-          "social": "1",
+          "social": "2",
           "align": "tc",
           "hover": "hover_side_up"
         }
