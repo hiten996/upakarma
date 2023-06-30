@@ -1600,6 +1600,9 @@
           "pr_summary-5",
           "pr_summary-6"
         ],
+        "custom_css": [
+          ".richtext_41beffc8-d03b-4ad4-9c2d-c22f6dd28c98 {color: #694227; font-size: 15px;}"
+        ],
         "settings": {
         }
       },
