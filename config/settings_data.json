@@ -1520,7 +1520,7 @@
             "type": "pricereview",
             "settings": {
               "price": "0",
-              "show_available": true,
+              "show_available": false,
               "rating": true
             }
           },
