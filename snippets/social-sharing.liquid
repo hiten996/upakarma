@@ -80,18 +80,7 @@
           <i class="facl facl-pinterest"></i>
         </a>
       {%- endif -%}
-      {%- if settings.share_tumblr -%}
-        <a
-          data-no-instant
-          rel="noopener noreferrer nofollow"
-          data-content="http:{{permaImage}}"
-          href="//tumblr.com/widgets/share/tool?canonicalUrl={{ permalinkURL }}"
-          target="{{target}}"
-          class="tumblr cb {{class_tooltip}}">
-          <span class="tt_txt">{{ 'general.nt_tooltip.share_tu' | t }}</span>
-          <i class="fa-brands fa-telegram"></i>
-        </a>
-      {%- endif -%}
+
     {%- endif -%}
     {%- if settings.share_telegram -%}
       <a
