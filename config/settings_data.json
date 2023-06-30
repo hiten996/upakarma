@@ -856,10 +856,10 @@
           "mb_nav-1": {
             "type": "menu",
             "settings": {
-              "title": "SHOP",
+              "title": "ABOUT US",
               "url": "",
               "open_link": "_self",
-              "menu": "",
+              "menu": "about-us",
               "icon": "",
               "lb": "",
               "lb_cl": ""
@@ -868,10 +868,10 @@
           "mb_nav-2": {
             "type": "menu",
             "settings": {
-              "title": "Product",
+              "title": "SHOP",
               "url": "",
               "open_link": "_self",
-              "menu": "",
+              "menu": "customer-services",
               "icon": "",
               "lb": "",
               "lb_cl": ""
@@ -880,8 +880,8 @@
           "1585642902196": {
             "type": "menu",
             "settings": {
-              "title": "Sale",
-              "url": "",
+              "title": "COMBO PACK",
+              "url": "shopify:\/\/collections\/all",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -892,8 +892,8 @@
           "1585642908420": {
             "type": "menu",
             "settings": {
-              "title": "Portfolio",
-              "url": "",
+              "title": "MEDIA",
+              "url": "shopify:\/\/blogs\/news",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -904,8 +904,8 @@
           "mb_nav-3": {
             "type": "menu",
             "settings": {
-              "title": "Lookbook",
-              "url": "",
+              "title": "BLOG",
+              "url": "shopify:\/\/blogs\/news",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -913,21 +913,16 @@
               "lb_cl": ""
             }
           },
-          "1585642887352": {
+          "353d9fb7-5491-41fd-b599-2ac6c46d9906": {
             "type": "menu",
             "settings": {
-              "title": "Blog",
-              "url": "",
+              "title": "NEW LAUNCHES",
+              "url": "shopify:\/\/collections\/frontpage",
               "open_link": "_self",
               "menu": "",
               "icon": "",
               "lb": "",
               "lb_cl": ""
-            }
-          },
-          "mb_nav-4": {
-            "type": "wis",
-            "settings": {
             }
           },
           "mb_nav-5": {
@@ -939,11 +934,6 @@
             "type": "acc",
             "settings": {
             }
-          },
-          "mb_nav-8": {
-            "type": "cur",
-            "settings": {
-            }
           }
         },
         "block_order": [
@@ -953,11 +943,9 @@
           "1585642902196",
           "1585642908420",
           "mb_nav-3",
-          "1585642887352",
-          "mb_nav-4",
+          "353d9fb7-5491-41fd-b599-2ac6c46d9906",
           "mb_nav-5",
-          "mb_nav-6",
-          "mb_nav-8"
+          "mb_nav-6"
         ],
         "settings": {
         }
