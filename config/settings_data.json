@@ -628,7 +628,7 @@
             "type": "html",
             "settings": {
               "title": "MANKIND GROUP COMPANY",
-              "content": "<img width=\"350\" height=\"210\" alt=\"Mankind Logo\" style=\"max-width:100%;height:auto;\" title=\"MANKIND GROUP COMPANY\" nitro-lazy-src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\" class=\"image wp-image-613930 mankind attachment-full size-full ls-is-cached lazyloaded\" decoding=\"async\" nitro-lazy-empty=\"\" id=\"MzIwMTo0NTM=-1\" src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\">",
+              "content": "<img width=\"238\" height=\"142.8\" alt=\"Mankind Logo\" style=\"max-width:100%;height:auto;\" title=\"MANKIND GROUP COMPANY\" nitro-lazy-src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\" class=\"image wp-image-613930 mankind attachment-full size-full ls-is-cached lazyloaded\" decoding=\"async\" nitro-lazy-empty=\"\" id=\"MzIwMTo0NTM=-1\" src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\">",
               "order": "1",
               "cl": "4",
               "cl_tb": "6",
@@ -693,7 +693,7 @@
         ],
         "settings": {
           "sticky": false,
-          "accordions": true,
+          "accordions": false,
           "border": false,
           "bd_cl": "#ededed",
           "cl_h": "#1a1a1a",
