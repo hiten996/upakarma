@@ -635,17 +635,13 @@
               "cl_mb": "12"
             }
           },
-          "1581507819652": {
-            "type": "logo",
-            "disabled": true,
+          "1581507828337": {
+            "type": "menu",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Mankind-Logo-1_2373a3b0-3eff-4ef6-89c0-988a712586a9.png",
-              "logo_width": 350,
-              "title": "MANKIND GROUP COMPANY",
-              "content": "",
-              "social_mode": "1",
+              "title": "CUSTOMER SERVICES",
+              "menu": "footer",
               "order": "1",
-              "cl": "3",
+              "cl": "15",
               "cl_tb": "6",
               "cl_mb": "12"
             }
@@ -655,17 +651,6 @@
             "settings": {
               "title": "OUR BEST SELLERS",
               "menu": "",
-              "order": "1",
-              "cl": "15",
-              "cl_tb": "6",
-              "cl_mb": "12"
-            }
-          },
-          "1581507828337": {
-            "type": "menu",
-            "settings": {
-              "title": "CUSTOMER SERVICES",
-              "menu": "footer",
               "order": "1",
               "cl": "15",
               "cl_tb": "6",
@@ -686,9 +671,8 @@
         },
         "block_order": [
           "c03af21b-58e0-47cc-8b8a-71a5d4513005",
-          "1581507819652",
-          "1581507824602",
           "1581507828337",
+          "1581507824602",
           "94dbce6d-d33c-4c11-931b-d27655734b64"
         ],
         "settings": {
