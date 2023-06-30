@@ -280,7 +280,7 @@
     "free_ship_pr": "free-shipping-amount",
     "gift_wrap_pr": "gift-wrapping",
     "link_ship": "",
-    "link_conditions": "",
+    "link_conditions": "terms-of-service",
     "ship_calc_df_country": "United States",
     "show_locale_selector": true,
     "lang_pos": "0",
