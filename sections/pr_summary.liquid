@@ -232,7 +232,7 @@ endif -%}
                  {%- form 'product', product, id: id_frm, data-productid: pid, class: cl_frm -%}
                     {{ form | payment_terms }}
                     {%- if no_sold_out and settings.enable_sub_reCharge %}{% include 'subscription-product' %}{% endif -%} 
-                    {%- if settings.enable_infiniteoptions %}<div id="infiniteoptions-container"></div>{% endif -%} 
+
                     {%- if default -%}
                        <input name="id" data-productid="{{pid}}" value="{{ pr_variants.first.id }}" type="hidden">
                        <div class="nt_pr_js lazypreloadt4s op__0" data-id="{{call_cl}}" data-rendert4s="{{locale_url}}/products/{{product.handle}}/?view=js{{call_cl}}"></div>
