@@ -1608,19 +1608,11 @@
             "settings": {
               "title": "Reviews"
             }
-          },
-          "a85a1606-ce9c-44b7-8fb8-b6d4e6699f1e": {
-            "type": "text",
-            "settings": {
-              "title": "Talk about your brand",
-              "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-            }
           }
         },
         "block_order": [
           "pr_description-0",
-          "pr_description-2",
-          "a85a1606-ce9c-44b7-8fb8-b6d4e6699f1e"
+          "pr_description-2"
         ],
         "settings": {
           "show": true,
@@ -3834,22 +3826,43 @@
           "faqs-1": {
             "type": "faq",
             "settings": {
-              "title": "Lorem ipsum dolor sit amet",
-              "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed eros congue, eleifend ipsum vitae, cursus massa. Vivamus imperdiet luctus lorem. <\/p>"
+              "title": "Q:2 Can I buy multiple products in single order?",
+              "content": "<p>Yes. Just add all the products you wish to buy into your shopping bag and then complete your order. This way you can save on any additional shipping and COD charges!<\/p>"
             }
           },
           "faqs-2": {
             "type": "faq",
             "settings": {
-              "title": "Lorem ipsum dolor sit amet",
-              "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed eros congue, eleifend ipsum vitae, cursus massa. Vivamus imperdiet luctus lorem. <\/p>"
+              "title": "Q:3 How do I know that my order is confirmed?",
+              "content": "<p>For all Pre-paid orders, once you place your order, your confirmation status will be automatically updated on your Account section. If your chosen mode of payment for that order is Cash on Delivery, you will get an email and SMS on your registered contacts asking you to reply with a ‘YES’ to confirm your order. Once you have confirmed ‘YES’, you will get a confirmation email and SMS on your registered email address and mobile number respectively.<\/p>"
             }
           },
           "faqs-3": {
             "type": "faq",
             "settings": {
-              "title": "Lorem ipsum dolor sit amet",
-              "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed eros congue, eleifend ipsum vitae, cursus massa. Vivamus imperdiet luctus lorem. <\/p>"
+              "title": "Q:4 Can I leave items in my cart for future purchase?",
+              "content": "<p>Yes, you can leave items in your cart, however the price and availability of these products will be reflected on a real time basis. Hence, there is a possibility that the product may go out of stock or the offer on the product may expire from the time you added it to your cart.<\/p>"
+            }
+          },
+          "47bd247d-09e7-49f6-a30c-50878e0addda": {
+            "type": "faq",
+            "settings": {
+              "title": "Q:5 Do I have to have an account to place an order?",
+              "content": "<p>No, you are not required to make an account.<\/p><p>However for a better shopping experience you are requested to open an account on our website.<\/p><p> You can enjoy rating and reviewing our products as per your experience, you can also check your previous orders that are pending and also be able to cancel and refund if you may want so.<\/p>"
+            }
+          },
+          "565f3988-032d-4d2a-acf3-0f5971f38b21": {
+            "type": "faq",
+            "settings": {
+              "title": "Q:6 How do I sign up for a Upakarma Ayurveda account?",
+              "content": "<p>All you need to do is provide us with your name, email address, mobile number and a password of your choice.<\/p>"
+            }
+          },
+          "774bc9b6-e97a-430b-9434-f11269f72599": {
+            "type": "faq",
+            "settings": {
+              "title": "Q:7 What are the benefits of signing in?",
+              "content": "<p>Signing up for an account will give you benefits and give you a superior experience while shopping on Upakarma Ayurveda. Your account allows you to:<br\/>1. Keep track of all your past purchases<\/p><p>2. Earn Upakarma points based on product purchases or referral system.<\/p>"
             }
           }
         },
@@ -3857,7 +3870,10 @@
           "faqs-0",
           "faqs-1",
           "faqs-2",
-          "faqs-3"
+          "faqs-3",
+          "47bd247d-09e7-49f6-a30c-50878e0addda",
+          "565f3988-032d-4d2a-acf3-0f5971f38b21",
+          "774bc9b6-e97a-430b-9434-f11269f72599"
         ],
         "settings": {
           "auto": true
