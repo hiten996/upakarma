@@ -3847,23 +3847,23 @@
               "lazy_mn": true,
               "pos": "center",
               "wid": "cus",
-              "cus_wid": 550
+              "cus_wid": 600
             }
           },
           "8a4c626f-5099-4385-be0e-f3a37075e19c": {
             "type": "link",
             "settings": {
-              "tt_hd": "Heading",
+              "tt_hd": "OUR BEST SELLERS",
               "url": "",
               "open_link": "_self",
               "menu": "our-best-sellers",
-              "col": "4"
+              "col": "6"
             }
           },
           "a583f569-3317-4ab3-baf6-e2a24404704b": {
             "type": "link",
             "settings": {
-              "tt_hd": "Heading",
+              "tt_hd": "CUSTOMER SERVICES",
               "url": "",
               "open_link": "_self",
               "menu": "customer-services",
@@ -3873,11 +3873,11 @@
           "7163da5d-1d72-4219-93e5-86b110b366d0": {
             "type": "link",
             "settings": {
-              "tt_hd": "Heading",
+              "tt_hd": "SHOP BY CONCERN",
               "url": "",
               "open_link": "_self",
               "menu": "shop-by-concern",
-              "col": "4"
+              "col": "6"
             }
           }
         },
