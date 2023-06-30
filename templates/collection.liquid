@@ -78,15 +78,15 @@ endif -%}
         <div class="cat_filter col op__0 pe_none">
         {%- assign ck = true -%}
         {%- if settings.shop_filters -%}
-           <a rel="nofollow" href="#" data-no-instant data-opennt="#shopify-section-{{nt_filter}}" data-pos="left" data-remove="true" data-class="popup_filter" data-bg="hide_btn" class="has_icon btn_filter mgr"><i class="iccl fwb iccl-filter fwb mr__5"></i>{{ 'Filters' | t }}</a>
+           <a rel="nofollow" href="#" data-no-instant data-opennt="#shopify-section-{{nt_filter}}" data-pos="left" data-remove="true" data-class="popup_filter" data-bg="hide_btn" class="has_icon btn_filter mgr"><i class="iccl fwb iccl-filter fwb mr__5"></i>Filters</a>
            <a rel="nofollow" href="#" data-no-instant data-id="#shopify-section-{{nt_filter}}" class="btn_filter js_filter dn mgr"><i class="iccl fwb iccl-filter fwb mr__5"></i>{{ 'collections.general.filter' | t }}</a>
         {%- elsif hidden_cat and no_sidebar == false -%}{%- assign ck = false -%}
            <div class="cat_sidebar">
-              <a rel="nofollow" data-no-instant href="#" data-opennt="#shopify-section-{{sidebar_shop}}" data-pos="left" data-remove="true" data-class="popup_filter" data-bg="hide_btn" class="has_icon btn_sidebar mgr"><i class="iccl fwb iccl-trello fwb mr__5"></i>{{ 'Filters' | t }}</a>
+              <a rel="nofollow" data-no-instant href="#" data-opennt="#shopify-section-{{sidebar_shop}}" data-pos="left" data-remove="true" data-class="popup_filter" data-bg="hide_btn" class="has_icon btn_sidebar mgr"><i class="iccl fwb iccl-trello fwb mr__5"></i>Filters</a>
            </div>
         {%- elsif no_sidebar == false -%}
            <div class="cat_sidebar no_hidden_sidebar">
-              <a rel="nofollow" data-no-instant href="#" data-opennt="#shopify-section-{{sidebar_shop}}" data-pos="left" data-remove="true" data-class="popup_filter" data-bg="hide_btn" class="has_icon btn_sidebar mgr"><i class="iccl fwb iccl-trello fwb mr__5"></i>{{ 'Filters' | t }}</a>
+              <a rel="nofollow" data-no-instant href="#" data-opennt="#shopify-section-{{sidebar_shop}}" data-pos="left" data-remove="true" data-class="popup_filter" data-bg="hide_btn" class="has_icon btn_sidebar mgr"><i class="iccl fwb iccl-trello fwb mr__5"></i>'Filters</a>
            </div>
         {%- endif -%}
         </div>
@@ -116,7 +116,7 @@ endif -%}
         {%- if no_sidebar == false and settings.shop_filters and ck -%}
         <div class="cat_hidden_{{hidden_cat}} col tr">
            <div class="cat_sidebar">
-              <a rel="nofollow" data-no-instant href="#" data-no-instant data-opennt="#shopify-section-{{sidebar_shop}}" data-pos="right" data-remove="true" data-class="popup_filter" data-bg="hide_btn" class="has_icon btn_sidebar mgr op__0"><i class="iccl fwb iccl-trello fwb mr__5"></i>{{ 'Filters' | t }}</a>
+              <a rel="nofollow" data-no-instant href="#" data-no-instant data-opennt="#shopify-section-{{sidebar_shop}}" data-pos="right" data-remove="true" data-class="popup_filter" data-bg="hide_btn" class="has_icon btn_sidebar mgr op__0"><i class="iccl fwb iccl-trello fwb mr__5"></i>Filters</a>
            </div> 
            {%- if settings.sort_enable -%}
            <div class="cat_sortby cat_sortby_js dn">{%- assign option_selected = collection.sort_options | where:"value",sort_by -%}
