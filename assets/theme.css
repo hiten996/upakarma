@@ -1668,7 +1668,7 @@ body.dark_mode_true {
 }
 
 .row.al_center.css_h_se {
-  width: 1200px;
+  width: 1200px !important;
   margin-left: auto;
   margin-right: auto;
 }
