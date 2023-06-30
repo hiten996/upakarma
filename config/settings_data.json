@@ -1608,11 +1608,19 @@
             "settings": {
               "title": "Reviews"
             }
+          },
+          "a85a1606-ce9c-44b7-8fb8-b6d4e6699f1e": {
+            "type": "text",
+            "settings": {
+              "title": "Talk about your brand",
+              "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            }
           }
         },
         "block_order": [
           "pr_description-0",
-          "pr_description-2"
+          "pr_description-2",
+          "a85a1606-ce9c-44b7-8fb8-b6d4e6699f1e"
         ],
         "settings": {
           "show": true,
