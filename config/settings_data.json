@@ -3832,11 +3832,62 @@
               "lazy_mn": true,
               "pos": "right"
             }
+          },
+          "3769957d-23df-4d2f-89ff-d8bb929ebffc": {
+            "type": "mega",
+            "settings": {
+              "title": "SHOP",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos": "center",
+              "wid": "cus",
+              "cus_wid": 550
+            }
+          },
+          "8a4c626f-5099-4385-be0e-f3a37075e19c": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Heading",
+              "url": "",
+              "open_link": "_self",
+              "menu": "our-best-sellers",
+              "col": "4"
+            }
+          },
+          "a583f569-3317-4ab3-baf6-e2a24404704b": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Heading",
+              "url": "",
+              "open_link": "_self",
+              "menu": "customer-services",
+              "col": "6"
+            }
+          },
+          "7163da5d-1d72-4219-93e5-86b110b366d0": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Heading",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "4"
+            }
           }
         },
         "block_order": [
           "header_9-0",
-          "d77e8670-f777-422b-b931-b5f4600e5033"
+          "d77e8670-f777-422b-b931-b5f4600e5033",
+          "3769957d-23df-4d2f-89ff-d8bb929ebffc",
+          "8a4c626f-5099-4385-be0e-f3a37075e19c",
+          "a583f569-3317-4ab3-baf6-e2a24404704b",
+          "7163da5d-1d72-4219-93e5-86b110b366d0"
         ],
         "settings": {
           "height": 92,
