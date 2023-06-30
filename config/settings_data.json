@@ -844,8 +844,8 @@
           "mb_nav-0": {
             "type": "menu",
             "settings": {
-              "title": "Demo",
-              "url": "",
+              "title": "HOME",
+              "url": "shopify:\/\/collections\/frontpage",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -856,7 +856,7 @@
           "mb_nav-1": {
             "type": "menu",
             "settings": {
-              "title": "Shop",
+              "title": "SHOP",
               "url": "",
               "open_link": "_self",
               "menu": "",
@@ -940,13 +940,6 @@
             "settings": {
             }
           },
-          "mb_nav-7": {
-            "type": "help",
-            "settings": {
-              "title": "Need help?",
-              "text": "<i class=\"pegk pe-7s-call fwb mr__10\"><\/i>+01 23456789<br><i class=\"pegk pe-7s-mail fwb mr__10\"><\/i><a class=\"cg\" href=\"mailto:gecko@domain.com\">gecko@domain.com<\/a>"
-            }
-          },
           "mb_nav-8": {
             "type": "cur",
             "settings": {
@@ -964,7 +957,6 @@
           "mb_nav-4",
           "mb_nav-5",
           "mb_nav-6",
-          "mb_nav-7",
           "mb_nav-8"
         ],
         "settings": {
