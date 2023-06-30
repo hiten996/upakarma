@@ -125,5 +125,17 @@
       {% endfor -%}
     {%- endif -%}
   {%- endunless -%}
-  //////
+  <li>
+    <a
+      class="social-icon vimeo"
+      href="{{ block.settings.social_vimeo_link }}"
+      title="Vimeo"
+      target="_blank"
+      aria-label="link">
+      <svg class="icon"><use xlink:href="#icon-vimeo" /></svg>
+      <span class="social-title">
+        {{ block.settings.social_title_vimeo }}
+      </span>
+    </a>
+  </li>
 </div>
