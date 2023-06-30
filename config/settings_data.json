@@ -3863,11 +3863,11 @@
           "a583f569-3317-4ab3-baf6-e2a24404704b": {
             "type": "link",
             "settings": {
-              "tt_hd": "CUSTOMER SERVICES",
+              "tt_hd": "SHOP BY PRODUCTS",
               "url": "",
               "open_link": "_self",
-              "menu": "customer-services",
-              "col": "6"
+              "menu": "our-best-sellers",
+              "col": "3"
             }
           },
           "7163da5d-1d72-4219-93e5-86b110b366d0": {
