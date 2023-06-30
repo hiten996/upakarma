@@ -1673,7 +1673,7 @@
       "recently_viewed": {
         "type": "recently_viewed",
         "settings": {
-          "show": true,
+          "show": false,
           "unavailable_prs": "show",
           "title": "Recently viewed products",
           "sub_title": "",
@@ -1746,20 +1746,29 @@
         "blocks": {
           "cart_heading-0": {
             "type": "1",
+            "disabled": true,
             "settings": {
-              "title": "Shopping cart"
+              "title": "Your Cart"
+            }
+          },
+          "aa0471d5-dfe7-4d80-9a1c-931f14598d68": {
+            "type": "2",
+            "disabled": true,
+            "settings": {
+              "text": "<p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...<\/p>"
             }
           }
         },
         "block_order": [
-          "cart_heading-0"
+          "cart_heading-0",
+          "aa0471d5-dfe7-4d80-9a1c-931f14598d68"
         ],
         "settings": {
-          "image": "",
           "parallax": false,
-          "color": "#000",
-          "overlay": 50,
-          "padding": 50,
+          "color": "#222222",
+          "overlay": 0,
+          "padding": 10,
+          "paddingmb": 0,
           "bg_pos": "center center",
           "bg_repeat": "no-repeat",
           "bg_size": "cover",
@@ -1781,6 +1790,7 @@
           },
           "cart-template-2": {
             "type": "agree",
+            "disabled": true,
             "settings": {
             }
           },
@@ -1797,7 +1807,6 @@
           "cart-template-5": {
             "type": "img",
             "settings": {
-              "image": "",
               "wimg": 50
             }
           },
@@ -1832,12 +1841,12 @@
         "type": "cart_upsell",
         "settings": {
           "show_section": true,
-          "title": "Complete your cart",
+          "title": "You May Also Like",
           "sub_title": "",
           "style_title": "title_1",
           "ic_tt": "gem",
           "show_clpr": false,
-          "collection": "",
+          "collection": "new-arrivals",
           "limit": 6,
           "space_cat": "30",
           "col_pr": "3",
