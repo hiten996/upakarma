@@ -562,7 +562,7 @@ endif -%}
 
       {%- when 'text' -%}
         {%- if bk_stts.text == blank -%}{%- continue -%}{%- endif -%}
-        <div class="richtext_{{block.id}}">{{bk_stts.text}}</div>
+        <div class="richtext_{{block.id}}">{{product.metafields.custom.short_description}}</div>
 
       {%- comment -%}
       {%- when 'metafield' -%}
