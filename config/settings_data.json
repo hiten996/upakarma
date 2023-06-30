@@ -827,14 +827,14 @@
           "cart_widget-7"
         ],
         "settings": {
-          "style": "1",
+          "style": "2",
           "pos": "2",
           "enable_pr": true,
-          "calc_ship": true,
-          "show_note": true,
-          "show_rates": true,
+          "calc_ship": false,
+          "show_note": false,
+          "show_rates": false,
           "show_discount": true,
-          "show_gift_wrap": true
+          "show_gift_wrap": false
         }
       },
       "mb_nav": {
@@ -1806,6 +1806,7 @@
           },
           "cart-template-5": {
             "type": "img",
+            "disabled": true,
             "settings": {
               "wimg": 50
             }
@@ -1814,7 +1815,15 @@
             "type": "btn",
             "settings": {
               "title": "Return To Shop",
-              "url": "",
+              "url": "shopify:\/\/collections\/all",
+              "style": "secondary"
+            }
+          },
+          "76bd433d-4aae-4d20-b66b-7f17af5c7c5d": {
+            "type": "btn2",
+            "settings": {
+              "title": "Continue Shopping",
+              "url": "shopify:\/\/collections\/all",
               "style": "primary tu"
             }
           }
@@ -1826,7 +1835,8 @@
           "cart-template-3",
           "cart-template-4",
           "cart-template-5",
-          "cart-template-6"
+          "cart-template-6",
+          "76bd433d-4aae-4d20-b66b-7f17af5c7c5d"
         ],
         "settings": {
           "ajax_enable": true,
