@@ -1857,7 +1857,7 @@
           "calc_ship": false,
           "show_note": true,
           "show_rates": false,
-          "show_discount": false,
+          "show_discount": true,
           "show_gift_wrap": false
         }
       },
@@ -3807,8 +3807,8 @@
           "header_9-0": {
             "type": "simple",
             "settings": {
-              "title": "HOme",
-              "url": "#",
+              "title": "HOME",
+              "url": "https:\/\/upakarmaonline.myshopify.com\/",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -3817,23 +3817,26 @@
               "lb_cl": ""
             }
           },
-          "header_9-1": {
-            "type": "simple",
+          "d77e8670-f777-422b-b931-b5f4600e5033": {
+            "type": "dropdown",
             "settings": {
-              "title": "Heading 2",
-              "url": "#",
+              "title": "ABOUT US",
+              "url": "",
               "open_link": "_self",
+              "menu": "about-us",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
               "lb": "",
-              "lb_cl": ""
+              "lb_cl": "#b59677",
+              "lazy_mn": true,
+              "pos": "right"
             }
           }
         },
         "block_order": [
           "header_9-0",
-          "header_9-1"
+          "d77e8670-f777-422b-b931-b5f4600e5033"
         ],
         "settings": {
           "height": 92,
