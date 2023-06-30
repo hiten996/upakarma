@@ -406,7 +406,7 @@ h1.product_title.entry-title,
 .kl_fbt_price,
 .grouped-pr-list-item__price ins,
 .widget .product_list_widget ins {
-  color: #ec0101;
+  color: black;
 }
 
 .widget .product_list_widget del,
