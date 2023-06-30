@@ -185,7 +185,7 @@
     "show_column_switch": true,
     "sort_enable": true,
     "cat_sticky": false,
-    "shop_filters": true,
+    "shop_filters": false,
     "pop_style": "pop_default",
     "type_filters": "2",
     "logic_filter": "2",
@@ -1309,7 +1309,7 @@
           "cat_heading-1"
         ],
         "settings": {
-          "shown": true,
+          "shown": false,
           "use_specify_image": true,
           "parallax": false,
           "color": "#000000",
@@ -1712,11 +1712,11 @@
         "type": "list_cat_heading",
         "settings": {
           "shown": true,
-          "image": "",
           "parallax": false,
-          "color": "#000",
+          "color": "#000000",
           "overlay": 54,
           "padding": 50,
+          "paddingmb": 50,
           "bg_pos": "center center",
           "bg_repeat": "no-repeat",
           "bg_size": "cover",
@@ -2366,6 +2366,7 @@
         "blocks": {
           "sidebar_shop2-0": {
             "type": "title",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "title": "By Title"
@@ -2380,6 +2381,7 @@
           },
           "sidebar_shop2-2": {
             "type": "variants",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2390,6 +2392,7 @@
           },
           "sidebar_shop2-3": {
             "type": "color",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2399,6 +2402,7 @@
           },
           "sidebar_shop2-4": {
             "type": "vendor",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2408,6 +2412,7 @@
           },
           "sidebar_shop2-5": {
             "type": "available",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2416,6 +2421,7 @@
           },
           "1596191009077": {
             "type": "variants",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": false,
@@ -2426,6 +2432,7 @@
           },
           "1596419303044": {
             "type": "tags",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
@@ -2435,6 +2442,7 @@
           },
           "1596419377121": {
             "type": "tag",
+            "disabled": true,
             "settings": {
               "hidden_block": false,
               "count": true,
