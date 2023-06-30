@@ -1825,7 +1825,7 @@
             "settings": {
               "title": "Continue Shopping",
               "url": "shopify:\/\/collections\/all",
-              "style": "primary tu"
+              "style": "secondary"
             }
           },
           "2fdf98e1-c45a-4ef0-9e30-5db9248793b7": {
