@@ -104,7 +104,7 @@
     "cl_sold_out": "#999",
     "clpr_tt": "#623400",
     "clpr_price": "#000",
-    "clpr_price_sale": "#ec0101",
+    "clpr_price_sale": "#623400",
     "clpr_price_goc": "#000",
     "clpr_in": "#623400",
     "bgwis_btn": "rgba(0,0,0,0)",
