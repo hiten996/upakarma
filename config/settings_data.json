@@ -220,7 +220,7 @@
     "date_in": "3",
     "remove_sold_out": false,
     "use_notify_me": true,
-    "breadcrumb_pr": true,
+    "breadcrumb_pr": false,
     "back_next_pr": true,
     "ratio_img_main": "ratio_imgtrue",
     "img_size_main": "nt_contain",
@@ -674,6 +674,9 @@
           "1581507828337",
           "1581507824602",
           "94dbce6d-d33c-4c11-931b-d27655734b64"
+        ],
+        "custom_css": [
+          "span.txt_title {font-size: 18px;}"
         ],
         "settings": {
           "sticky": false,
