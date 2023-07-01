@@ -676,7 +676,8 @@
           "c03af21b-58e0-47cc-8b8a-71a5d4513005"
         ],
         "custom_css": [
-          "span.txt_title {font-size: 18px;}"
+          "span.txt_title {font-size: 18px;}",
+          ".menu_footer.widget_footer {font-size: 16px;}"
         ],
         "settings": {
           "sticky": false,
