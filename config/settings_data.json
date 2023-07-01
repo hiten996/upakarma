@@ -630,7 +630,7 @@
               "title": "CUSTOMER SERVICES",
               "menu": "footer",
               "order": "1",
-              "cl": "15",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
@@ -641,7 +641,7 @@
               "title": "OUR BEST SELLERS",
               "menu": "our-best-sellers",
               "order": "1",
-              "cl": "15",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
@@ -677,7 +677,7 @@
               "title": "MANKIND GROUP COMPANY",
               "content": "<img width=\"238\" height=\"142.8\" alt=\"Mankind Logo\" style=\"max-width:100%;height:auto;\" title=\"MANKIND GROUP COMPANY\" nitro-lazy-src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\" class=\"image wp-image-613930 mankind attachment-full size-full ls-is-cached lazyloaded\" decoding=\"async\" nitro-lazy-empty=\"\" id=\"MzIwMTo0NTM=-1\" src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\">",
               "order": "1",
-              "cl": "4",
+              "cl": "3",
               "cl_tb": "6",
               "cl_mb": "12"
             }
