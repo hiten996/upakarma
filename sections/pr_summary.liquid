@@ -221,9 +221,8 @@ endif -%}
            {%-else-%}<p class="mg__0">{{- pr_des | strip_html | truncatewords: length -}}{{readm}}</p>
            {%-endif-%}
         </div>
-
+///////
      {%- when 'frm' -%}
-      ///////////
         <div class="btn-atc atc-slide btn_full_{{bk_stts.btn_atc_full}} PR_no_pick_{{PR_no_pick}} btn_des_{{bk_stts.btn_des}} btn_txt_{{bk_stts.btn_txt}}">
            {%- if nav_up_size == 0 -%}
               <div id="callBackVariant{{call_cl}}" data-js-callback class="nt_{{current_variant.option1 | handle}} nt1_{{current_variant.option2 | handle}} nt2_{{current_variant.option3 | handle}}">
