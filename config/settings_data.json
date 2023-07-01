@@ -658,17 +658,6 @@
               "cl_mb": "12"
             }
           },
-          "c03af21b-58e0-47cc-8b8a-71a5d4513005": {
-            "type": "html",
-            "settings": {
-              "title": "MANKIND GROUP COMPANY",
-              "content": "<img width=\"238\" height=\"142.8\" alt=\"Mankind Logo\" style=\"max-width:100%;height:auto;\" title=\"MANKIND GROUP COMPANY\" nitro-lazy-src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\" class=\"image wp-image-613930 mankind attachment-full size-full ls-is-cached lazyloaded\" decoding=\"async\" nitro-lazy-empty=\"\" id=\"MzIwMTo0NTM=-1\" src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\">",
-              "order": "1",
-              "cl": "4",
-              "cl_tb": "6",
-              "cl_mb": "12"
-            }
-          },
           "7b53766c-9d8b-4564-8aef-1c37d83cb015": {
             "type": "logo",
             "settings": {
@@ -681,14 +670,25 @@
               "cl_tb": "6",
               "cl_mb": "12"
             }
+          },
+          "c03af21b-58e0-47cc-8b8a-71a5d4513005": {
+            "type": "html",
+            "settings": {
+              "title": "MANKIND GROUP COMPANY",
+              "content": "<img width=\"238\" height=\"142.8\" alt=\"Mankind Logo\" style=\"max-width:100%;height:auto;\" title=\"MANKIND GROUP COMPANY\" nitro-lazy-src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\" class=\"image wp-image-613930 mankind attachment-full size-full ls-is-cached lazyloaded\" decoding=\"async\" nitro-lazy-empty=\"\" id=\"MzIwMTo0NTM=-1\" src=\"https:\/\/cdn-cbjkk.nitrocdn.com\/nQBeTLvNmhHXXAilYuEoekNdYamqtNHN\/assets\/images\/optimized\/rev-7aab123\/wp-content\/uploads\/2023\/01\/Mankind-Logo-1.png\">",
+              "order": "1",
+              "cl": "4",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
           }
         },
         "block_order": [
           "1581507828337",
           "1581507824602",
           "94dbce6d-d33c-4c11-931b-d27655734b64",
-          "c03af21b-58e0-47cc-8b8a-71a5d4513005",
-          "7b53766c-9d8b-4564-8aef-1c37d83cb015"
+          "7b53766c-9d8b-4564-8aef-1c37d83cb015",
+          "c03af21b-58e0-47cc-8b8a-71a5d4513005"
         ],
         "custom_css": [
           "span.txt_title {font-size: 18px;}",
