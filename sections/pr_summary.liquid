@@ -227,7 +227,7 @@ endif -%}
            {%- if nav_up_size == 0 -%}
               <div id="callBackVariant{{call_cl}}" data-js-callback class="nt_{{current_variant.option1 | handle}} nt1_{{current_variant.option2 | handle}} nt2_{{current_variant.option3 | handle}}">
                  {%- if nav_style_size > 0 %}{% render 'choose_style',call_cl:call_cl,default:default,style_tag_arr:style_tag_arr,style_tag:style_tag,nav_style:nav_style,pid:pid %}{% endif -%}
-
+///////
                  {%- assign id_frm = 'cart-form' | append:call_cl -%}{%- assign cl_frm = 'nt_cart_form variations_form variations_form' | append:call_cl -%}
                  {%- form 'product', product, id: id_frm, data-productid: pid, class: cl_frm -%}
                     {{ form | payment_terms }}
